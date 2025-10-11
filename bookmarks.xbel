@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :39: for Floccus bookmark sync browser extension -->
+<!--- highestId :40: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -33,6 +33,9 @@
     </bookmark>
     <bookmark href="https://bmi-web-dev-fiadmin-01.azurewebsites.net/InternationalAdmin/Index" id="21">
       <title>International Admin - Foreign Incoming Admin</title>
+    </bookmark>
+    <bookmark href="https://sso.dayforcehcm.com/bmi" id="40">
+      <title>Hub - Dayforce</title>
     </bookmark>
   </folder>
   <folder id="23">
