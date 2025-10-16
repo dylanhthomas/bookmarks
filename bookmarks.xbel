@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :43: for Floccus bookmark sync browser extension -->
+<!--- highestId :44: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -10,9 +10,6 @@
   </bookmark>
   <folder id="22">
     <title>BMI Apps</title>
-    <bookmark href="https://bmi.service-now.com/xesc?id=ticket&amp;table=incident&amp;sys_id=0001a0d047ef26102deff46c416d430d" id="28">
-      <title>SN</title>
-    </bookmark>
     <bookmark href="http://n2ssrsp01:8080/Reports_BMISSRSPROD/browse/ForeignIncoming" id="29">
       <title>SSRS-PROD</title>
     </bookmark>
@@ -36,6 +33,9 @@
     </bookmark>
     <bookmark href="https://sso.dayforcehcm.com/bmi" id="40">
       <title>Hub - Dayforce</title>
+    </bookmark>
+    <bookmark href="https://bmi.service-now.com/" id="44">
+      <title>SN</title>
     </bookmark>
   </folder>
   <folder id="23">
