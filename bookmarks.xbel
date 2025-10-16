@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :42: for Floccus bookmark sync browser extension -->
+<!--- highestId :43: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -101,5 +101,8 @@
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
+  <bookmark href="https://www.smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/?utm_source=heydesigner.com" id="43">
+    <title>Functional Personas With AI: A Lean, Practical Workflow — Smashing Magazine</title>
+  </bookmark>
 </folder>
 </xbel>
