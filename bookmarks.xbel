@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :44: for Floccus bookmark sync browser extension -->
+<!--- highestId :45: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -36,6 +36,9 @@
     </bookmark>
     <bookmark href="https://bmi.service-now.com/" id="44">
       <title>SN</title>
+    </bookmark>
+    <bookmark href="https://app.powerbi.com/groups/me/reports/ac0aae10-0e43-4a68-bb6b-446c172846c6/44ab48492c1b82e6b8e8?ctid=3bbeab81-67a4-42cc-a068-5dcb39061843&amp;experience=power-bi" id="45">
+      <title>FIAmplify_audio_reports_v1400 - Power BI</title>
     </bookmark>
   </folder>
   <folder id="23">
