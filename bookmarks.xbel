@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :48: for Floccus bookmark sync browser extension -->
+<!--- highestId :49: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -115,6 +115,9 @@
   </bookmark>
   <bookmark href="https://rv-grid.com/?_gl=1*110ilza*_gcl_au*ODQ1ODcyMzg1LjE3NjE4NTA0Mzk.*_ga*MTE0Njk1ODExNy4xNzYxODUwNDQw*_ga_894M8FYLZF*czE3NjE4NTA0MzkkbzEkZzEkdDE3NjE4NTA1NDYkajYwJGwwJGgw" id="48">
     <title>High-Performance Data Grid for Vue, React, Angular, Svelte, and JavaScript | RevoGrid</title>
+  </bookmark>
+  <bookmark href="https://github.com/FancyGrid/awesome-grid" id="49">
+    <title>GitHub - FancyGrid/awesome-grid: A curated list of grid(table) libraries and resources that developers may find useful.</title>
   </bookmark>
 </folder>
 </xbel>
