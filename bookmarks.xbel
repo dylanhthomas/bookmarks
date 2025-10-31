@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :51: for Floccus bookmark sync browser extension -->
+<!--- highestId :52: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -124,6 +124,9 @@
   </bookmark>
   <bookmark href="https://medium.com/@debpanda17/5-best-tables-in-react-pros-and-cons-5c5d08cfe69a" id="51">
     <title>5 Best Tables in React: Pros and Cons | by Debasish Panda | Medium</title>
+  </bookmark>
+  <bookmark href="https://bmitfs.visualstudio.com/CommonPlatform/_backlogs/backlog/CommonPlatform%20Team/Stories" id="52">
+    <title>CommonPlatform Team Stories Backlog - Boards</title>
   </bookmark>
 </folder>
 </xbel>
