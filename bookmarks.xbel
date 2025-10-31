@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :49: for Floccus bookmark sync browser extension -->
+<!--- highestId :51: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -118,6 +118,12 @@
   </bookmark>
   <bookmark href="https://github.com/FancyGrid/awesome-grid" id="49">
     <title>GitHub - FancyGrid/awesome-grid: A curated list of grid(table) libraries and resources that developers may find useful.</title>
+  </bookmark>
+  <bookmark href="https://infogram.com/" id="50">
+    <title>Create Interactive Data Visualizations with AI | Infogram</title>
+  </bookmark>
+  <bookmark href="https://medium.com/@debpanda17/5-best-tables-in-react-pros-and-cons-5c5d08cfe69a" id="51">
+    <title>5 Best Tables in React: Pros and Cons | by Debasish Panda | Medium</title>
   </bookmark>
 </folder>
 </xbel>
