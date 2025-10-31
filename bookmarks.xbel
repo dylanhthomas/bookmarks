@@ -93,7 +93,7 @@
     <title>Aha!</title>
   </bookmark>
   <bookmark href="https://bmitfs.visualstudio.com/ForeignIncoming/_backlogs/backlog/ForeignIncoming%20Team/Features?showParents=true" id="26">
-    <title>ADO</title>
+    <title>ADO-FI</title>
   </bookmark>
   <bookmark href="https://ourskylight.com/calendar/3899769/events?date=2025-09-15" id="27">
     <title>Skylight</title>
@@ -103,6 +103,9 @@
   </bookmark>
   <bookmark href="https://www.pikapods.com/apps" id="17">
     <title>PikaPods - Apps</title>
+  </bookmark>
+  <bookmark href="https://bmitfs.visualstudio.com/CommonPlatform/_backlogs/backlog/CommonPlatform%20Team/Stories" id="52">
+    <title>ADO-CP</title>
   </bookmark>
 </folder>
 <folder id="2">
@@ -124,9 +127,6 @@
   </bookmark>
   <bookmark href="https://medium.com/@debpanda17/5-best-tables-in-react-pros-and-cons-5c5d08cfe69a" id="51">
     <title>5 Best Tables in React: Pros and Cons | by Debasish Panda | Medium</title>
-  </bookmark>
-  <bookmark href="https://bmitfs.visualstudio.com/CommonPlatform/_backlogs/backlog/CommonPlatform%20Team/Stories" id="52">
-    <title>CommonPlatform Team Stories Backlog - Boards</title>
   </bookmark>
 </folder>
 </xbel>
