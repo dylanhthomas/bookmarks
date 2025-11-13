@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :52: for Floccus bookmark sync browser extension -->
+<!--- highestId :53: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -106,6 +106,9 @@
   </bookmark>
   <bookmark href="https://bmitfs.visualstudio.com/CommonPlatform/_backlogs/backlog/CommonPlatform%20Team/Stories" id="52">
     <title>ADO-CP</title>
+  </bookmark>
+  <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="53">
+    <title>GM</title>
   </bookmark>
 </folder>
 <folder id="2">
