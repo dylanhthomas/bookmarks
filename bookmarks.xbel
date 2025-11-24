@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :55: for Floccus bookmark sync browser extension -->
+<!--- highestId :56: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -84,6 +84,9 @@
     </bookmark>
     <bookmark href="https://broadcastmusicinc-my.sharepoint.com/:w:/g/personal/dthomas_bmi_com/EagWk2pIEO9Orya0R4hs6YcBQdsf29yGicjpi1_2exQy6w?e=Ou86eM" id="42">
       <title>Definition of Ready for FI Team.docx</title>
+    </bookmark>
+    <bookmark href="https://broadcastmusicinc.sharepoint.com/:w:/r/sites/Teams-International/_layouts/15/Doc.aspx?sourcedoc=%7B39D72C38-6F60-428B-984F-3AA782183605%7D&amp;file=International%20VCP%20Requirements.docx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="56">
+      <title>International VCP Requirements.docx</title>
     </bookmark>
   </folder>
   <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="53">
