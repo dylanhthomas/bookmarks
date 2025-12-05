@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :57: for Floccus bookmark sync browser extension -->
+<!--- highestId :58: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -42,6 +42,9 @@
     </bookmark>
     <bookmark href="https://app.powerbi.com/groups/me/reports/be2984c6-6947-4c37-8013-0342b7f10ba2/ReportSectioncbfccf805937ed42fa15?ctid=3bbeab81-67a4-42cc-a068-5dcb39061843&amp;experience=power-bi" id="46">
       <title>FI AV revenue tracking and claim - Power BI</title>
+    </bookmark>
+    <bookmark href="https://bmi-intl-dashboard-demo.figma.site/" id="58">
+      <title>Music Licensing Reference Site</title>
     </bookmark>
   </folder>
   <folder id="23">
