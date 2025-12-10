@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :61: for Floccus bookmark sync browser extension -->
+<!--- highestId :62: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -99,6 +99,9 @@
     </bookmark>
     <bookmark href="https://av-grid-prototype.figma.site/" id="60">
       <title>DataGrid-MUI</title>
+    </bookmark>
+    <bookmark href="https://thedatagrid.com/" id="62">
+      <title>THE DataGrid</title>
     </bookmark>
   </folder>
   <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="53">
