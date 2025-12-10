@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :62: for Floccus bookmark sync browser extension -->
+<!--- highestId :63: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -133,6 +133,9 @@
   </bookmark>
   <bookmark href="https://medium.com/@nc_mike/the-cult-of-vector-search-and-the-forgotten-power-of-graphs-dc479251818d" id="61">
     <title>The Cult of Vector Search and the Forgotten Power of Graphs | by Michael Iantosca | Medium</title>
+  </bookmark>
+  <bookmark href="https://bmi3.aha.io/bookmarks/custom_pivots/7582287487920620847/7582314979755338581" id="63">
+    <title>FI/Intl Roadmap | Aha!</title>
   </bookmark>
 </folder>
 <folder id="2">
