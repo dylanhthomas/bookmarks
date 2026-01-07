@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :66: for Floccus bookmark sync browser extension -->
+<!--- highestId :67: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -142,6 +142,9 @@
   </bookmark>
   <bookmark href="https://classpass.com/search/mapped-area/fitness-classes/4UpPu9BVffD" id="66">
     <title>CP</title>
+  </bookmark>
+  <bookmark href="https://fi.bmi.com/InternationalAdmin/Index" id="67">
+    <title>Amplify Claims Tracker - Foreign Incoming Admin</title>
   </bookmark>
 </folder>
 <folder id="2">
