@@ -28,9 +28,6 @@
     <bookmark href="https://bmi-web-prod-rms.azurewebsites.net/" id="16">
       <title>RMS</title>
     </bookmark>
-    <bookmark href="https://bmi-web-dev-fiadmin-01.azurewebsites.net/InternationalAdmin/Index" id="21">
-      <title>International Admin - Foreign Incoming Admin</title>
-    </bookmark>
     <bookmark href="https://sso.dayforcehcm.com/bmi" id="40">
       <title>Hub - Dayforce</title>
     </bookmark>
@@ -43,11 +40,14 @@
     <bookmark href="https://app.powerbi.com/groups/me/reports/be2984c6-6947-4c37-8013-0342b7f10ba2/ReportSectioncbfccf805937ed42fa15?ctid=3bbeab81-67a4-42cc-a068-5dcb39061843&amp;experience=power-bi" id="46">
       <title>FI AV revenue tracking and claim - Power BI</title>
     </bookmark>
-    <bookmark href="https://fi.bmi.com/InternationalAdmin/Index" id="67">
-      <title>Amplify-Prod</title>
+    <bookmark href="https://bmi-web-dev-fiadmin-01.azurewebsites.net/InternationalAdmin/Index" id="21">
+      <title>Amplify DEV</title>
     </bookmark>
     <bookmark href="https://bmi-web-qa-fiadmin-01.azurewebsites.net/InternationalAdmin/Index" id="68">
       <title>Amplify QA</title>
+    </bookmark>
+    <bookmark href="https://fi.bmi.com/InternationalAdmin/Index" id="67">
+      <title>Amplify-PROD</title>
     </bookmark>
   </folder>
   <folder id="23">
