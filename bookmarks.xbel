@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :72: for Floccus bookmark sync browser extension -->
+<!--- highestId :73: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -160,6 +160,9 @@
   </bookmark>
   <bookmark href="https://www.irs.gov/e-file-providers/country-codes" id="72">
     <title>Country codes | Internal Revenue Service</title>
+  </bookmark>
+  <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/distroandadmin/pages/86016939/Tax+Treaty+Rates" id="73">
+    <title>Tax Treaty Rates - Distribution and Administration - BMI Knowledge</title>
   </bookmark>
 </folder>
 <folder id="2">
