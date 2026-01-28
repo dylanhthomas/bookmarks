@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :76: for Floccus bookmark sync browser extension -->
+<!--- highestId :77: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -56,6 +56,9 @@
       <title>Music Licensing Reference Site – Figma Make</title>
     </bookmark>
     <bookmark href="https://www.figma.com/make/mNrj22vhQfGvAoBZGIhkak/Music-Licensing-Reference-Site?p=f&amp;t=kWfUfTynqEstNAoT-0" id="76">
+      <title>Music Licensing Reference Site – Figma Make</title>
+    </bookmark>
+    <bookmark href="https://www.figma.com/make/mNrj22vhQfGvAoBZGIhkak/Music-Licensing-Reference-Site?p=f&amp;t=kWfUfTynqEstNAoT-0&amp;preview-route=%2Fagreement%2Fagr_1769624824338_0" id="77">
       <title>Music Licensing Reference Site – Figma Make</title>
     </bookmark>
   </folder>
