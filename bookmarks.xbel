@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1689: for Floccus bookmark sync browser extension -->
+<!--- highestId :1690: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -292,27 +292,6 @@
           <bookmark href="https://app.fastmail.com/mail/Inbox/T8fc7e283274fa11f.M1e343b622c26aa0d13081965?u=ec614085" id="1528">
             <title>FM</title>
           </bookmark>
-          <bookmark href="https://ourskylight.com/calendar/3899769/events?date=2025-09-15" id="1529">
-            <title>Skylight</title>
-          </bookmark>
-          <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/PM1/pages/87162881/Onboarding+-+Dylan+Thomas" id="1530">
-            <title>onboarding</title>
-          </bookmark>
-          <bookmark href="https://www.pikapods.com/apps" id="1531">
-            <title>PikaPods - Apps</title>
-          </bookmark>
-          <bookmark href="https://medium.com/@nc_mike/the-cult-of-vector-search-and-the-forgotten-power-of-graphs-dc479251818d" id="1532">
-            <title>The Cult of Vector Search and the Forgotten Power of Graphs | by Michael Iantosca | Medium</title>
-          </bookmark>
-          <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/ASDD/pages/130547713/Definition+of+Ready+DoR+and+Definition+of+Done+DoD+Template" id="1533">
-            <title>DoR/DoD</title>
-          </bookmark>
-          <bookmark href="https://classpass.com/search/mapped-area/fitness-classes/4UpPu9BVffD" id="1534">
-            <title>CP</title>
-          </bookmark>
-          <bookmark href="https://www.irs.gov/e-file-providers/country-codes" id="1535">
-            <title>Country codes | Internal Revenue Service</title>
-          </bookmark>
           <bookmark href="https://bmi3.aha.io/bookmarks/custom_pivots/7545874422832174332/7545874514420022089" id="25">
             <title>Aha!</title>
           </bookmark>
@@ -325,11 +304,32 @@
           <bookmark href="https://bmitfs.visualstudio.com/AF/_backlogs/backlog/Cognos%20Reporting%20Team/Stories" id="71">
             <title>ADO-AF/COGNOS</title>
           </bookmark>
+          <bookmark href="https://ourskylight.com/calendar/3899769/events?date=2025-09-15" id="1529">
+            <title>Skylight</title>
+          </bookmark>
+          <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/PM1/pages/87162881/Onboarding+-+Dylan+Thomas" id="1530">
+            <title>onboarding</title>
+          </bookmark>
+          <bookmark href="https://www.pikapods.com/apps" id="1531">
+            <title>PikaPods - Apps</title>
+          </bookmark>
+          <bookmark href="https://medium.com/@nc_mike/the-cult-of-vector-search-and-the-forgotten-power-of-graphs-dc479251818d" id="1532">
+            <title>The Cult of Vector Search and the Forgotten Power of Graphs | by Michael Iantosca | Medium</title>
+          </bookmark>
           <bookmark href="https://bmi3.aha.io/bookmarks/custom_pivots/7582287487920620847/7582314979755338581" id="63">
             <title>RM:Film Migration</title>
           </bookmark>
           <bookmark href="https://bmi3.aha.io/bookmarks/custom_pivots/7582685424546616254/7582685496790008137" id="64">
             <title>RM:FI/Intl</title>
+          </bookmark>
+          <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/ASDD/pages/130547713/Definition+of+Ready+DoR+and+Definition+of+Done+DoD+Template" id="1533">
+            <title>DoR/DoD</title>
+          </bookmark>
+          <bookmark href="https://classpass.com/search/mapped-area/fitness-classes/4UpPu9BVffD" id="1534">
+            <title>CP</title>
+          </bookmark>
+          <bookmark href="https://www.irs.gov/e-file-providers/country-codes" id="1535">
+            <title>Country codes | Internal Revenue Service</title>
           </bookmark>
           <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/distroandadmin/pages/86016939/Tax+Treaty+Rates" id="1536">
             <title>Tax Treaty Rates - Distribution and Administration - BMI Knowledge</title>
@@ -727,41 +727,41 @@
           <bookmark href="https://www.google.com/search?q=EM_Event_Speaker_vod__c+fields&amp;rlz=1C1ONGR_enUS1155US1155&amp;oq=EM_Event_Speaker_vod__c+fields&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRirAjIHCAcQIRiPAtIBCDEzNThqMGo3qAIAsAIA&amp;sourceid=chrome&amp;ie=UTF-8" id="1552">
             <title>EM_Event_Speaker_vod__c fields - Google Search</title>
           </bookmark>
-          <bookmark href="https://crmhelp.veeva.com/doc/Content/CRM_topics/General/SettingUp/Custom_Fields.htm" id="1553">
-            <title>Custom Fields</title>
-          </bookmark>
           <bookmark href="https://www.google.com/search?q=veeva+list+of+all+fields+for+EM_Event_Speaker_vod__c&amp;sca_esv=edb9f998570affa4&amp;rlz=1C1ONGR_enUS1155US1155&amp;sxsrf=AE3TifNiCL7y6nbRsyno8wtP-WbSby7XOQ%3A1752731727160&amp;ei=T5B4aPTFCeuRwbkPpNPtkAU&amp;ved=0ahUKEwi0qe-_msOOAxXrSDABHaRpG1IQ4dUDCBA&amp;uact=5&amp;oq=veeva+list+of+all+fields+for+EM_Event_Speaker_vod__c&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiNHZlZXZhIGxpc3Qgb2YgYWxsIGZpZWxkcyBmb3IgRU1fRXZlbnRfU3BlYWtlcl92b2RfX2MyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSJYKUIEHWIEHcAF4AZABAJgBaaABaaoBAzAuMbgBA8gBAPgBAvgBAZgCAqACcsICChAAGLADGNYEGEeYAwDiAwUSATEgQIgGAZAGCJIHAzEuMaAHjAmyBwMwLjG4B23CBwUwLjEuMcgHBQ&amp;sclient=gws-wiz-serp" id="1554">
             <title>veeva list of all fields for EM_Event_Speaker_vod__c - Google Search</title>
-          </bookmark>
-          <bookmark href="https://developer-cdms.veevavault.com/sample-files/Vault_CDMS_API_Guide_23R3_DEC_2023.pdf" id="1555">
-            <title>Vault_CDMS_API_Guide_23R3_DEC_2023.pdf</title>
           </bookmark>
           <bookmark href="https://crmhelp.veeva.com/doc/Content/CRM_topics/Events%20Management/Configuration/EventsTypes.htm" id="1556">
             <title>Event Types</title>
           </bookmark>
-          <bookmark href="https://www.veeva.com/wp-content/uploads/2020/07/Veeva-CRM-Events-Management-Innovation-Guide.pdf" id="1557">
-            <title>Veeva-CRM-Events-Management-Innovation-Guide.pdf</title>
-          </bookmark>
           <bookmark href="https://crmhelp.veeva.com/doc/Content/Home.htm#stq=EM_Event&amp;stp=1" id="1558">
             <title>Veeva CRM Help</title>
-          </bookmark>
-          <bookmark href="https://www.google.com/search?q=veeva+erd&amp;rlz=1C1ONGR_enUS1155US1155&amp;oq=veeva+erd&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMggIAhAAGBYYHjINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBTINCAUQABiGAxiABBiKBTIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBCDIzMTBqMGo5qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8" id="1559">
-            <title>veeva erd - Google Search</title>
           </bookmark>
           <bookmark href="https://www.google.com/search?sca_esv=edb9f998570affa4&amp;rlz=1C1ONGR_enUS1155US1155&amp;sxsrf=AE3TifPVdGDXdudBsSOk3vHmuFDV0SN21Q:1752732225776&amp;q=Veeva+crm+data+model+pdf&amp;sa=X&amp;ved=2ahUKEwi5uNCtnMOOAxWVQjABHcxqGrwQ1QJ6BAg0EAE&amp;biw=1718&amp;bih=1270&amp;dpr=1" id="1560">
             <title>Veeva crm data model pdf - Google Search</title>
           </bookmark>
-          <bookmark href="https://crmhelp.veeva.com/doc/Content/Results.htm#stq=Veeva%20CRM%20Data%20Model%20Guide&amp;stp=1" id="1561">
-            <title>Results</title>
-          </bookmark>
           <bookmark href="https://developer.veevacrm.com/doc/Content/Home_footer_topics/PDF_Downloads.htm" id="1562">
             <title>PDF downloads</title>
           </bookmark>
-          <bookmark href="https://ttchealth.app.box.com/s/j0ck1y9v15c4q7ewenbc8khpbci40p3t" id="1563">
-            <title>SBSN25_2003_M6_PP-29017_SYNAGIS 2025 HCP Discontinuation Email Announcement.zip | Powered by Box</title>
-          </bookmark>
           <bookmark href="https://platform.veevavault.help/en/lr/777859/#data-model-file-content" id="1564">
             <title>Data Model Documentation | Veeva Vault Help</title>
+          </bookmark>
+          <bookmark href="https://crmhelp.veeva.com/doc/Content/CRM_topics/General/SettingUp/Custom_Fields.htm" id="1553">
+            <title>Custom Fields</title>
+          </bookmark>
+          <bookmark href="https://developer-cdms.veevavault.com/sample-files/Vault_CDMS_API_Guide_23R3_DEC_2023.pdf" id="1555">
+            <title>Vault_CDMS_API_Guide_23R3_DEC_2023.pdf</title>
+          </bookmark>
+          <bookmark href="https://www.veeva.com/wp-content/uploads/2020/07/Veeva-CRM-Events-Management-Innovation-Guide.pdf" id="1557">
+            <title>Veeva-CRM-Events-Management-Innovation-Guide.pdf</title>
+          </bookmark>
+          <bookmark href="https://www.google.com/search?q=veeva+erd&amp;rlz=1C1ONGR_enUS1155US1155&amp;oq=veeva+erd&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMggIAhAAGBYYHjINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBTINCAUQABiGAxiABBiKBTIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBCDIzMTBqMGo5qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8" id="1559">
+            <title>veeva erd - Google Search</title>
+          </bookmark>
+          <bookmark href="https://crmhelp.veeva.com/doc/Content/Results.htm#stq=Veeva%20CRM%20Data%20Model%20Guide&amp;stp=1" id="1561">
+            <title>Results</title>
+          </bookmark>
+          <bookmark href="https://ttchealth.app.box.com/s/j0ck1y9v15c4q7ewenbc8khpbci40p3t" id="1563">
+            <title>SBSN25_2003_M6_PP-29017_SYNAGIS 2025 HCP Discontinuation Email Announcement.zip | Powered by Box</title>
           </bookmark>
         </folder>
         <bookmark href="https://support.microsoft.com/en-us/surface/creating-and-using-a-usb-recovery-drive-for-surface-677852e2-ed34-45cb-40ef-398fc7d62c07" id="226">
@@ -2089,6 +2089,9 @@
         </bookmark>
         <bookmark href="https://www.themarginalian.org/2019/05/23/my-heart-corinna-luyken/?fbclid=IwAR3cFLLTB8386hoPFjOx5FLdVTQ47bJ3ppEHVn3Mmj3XCEP_0qGy-1pHT3E" id="648">
           <title>My Heart: An Emotional Intelligence Primer in the Form of an Uncommonly Tender Illustrated Poem About Our Capacity for Love &amp;ndash; The Marginalian</title>
+        </bookmark>
+        <bookmark href="https://access.mymind.com/everything" id="1690">
+          <title>mymind</title>
         </bookmark>
         <bookmark href="https://degreed.com/plan/2223089?newWindow=true" id="650">
           <title>NA SBU - DCX Process &amp; Practice Training | Plan | Degreed</title>
