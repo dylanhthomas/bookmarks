@@ -1,10 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1606: for Floccus bookmark sync browser extension -->
+<!--- highestId :1672: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
+  <folder id="1607">
+    <title>BMI</title>
+    <folder id="1608">
+      <title>Bookmarks Bar</title>
+      <folder id="1610">
+        <title>BMI Apps</title>
+        <bookmark href="http://n1ssisd03-new:8080/Reports/browse/ForeignIncoming/FI%20Reports" id="1636">
+          <title>SSRS-Dev</title>
+        </bookmark>
+        <bookmark href="http://n1ssisqat02-new:8080/Reports/browse/ForeignIncoming" id="1637">
+          <title>SSRS-QA</title>
+        </bookmark>
+        <bookmark href="http://n2ssrsp01:8080/Reports_BMISSRSPROD/browse/ForeignIncoming" id="1638">
+          <title>SSRS-PROD</title>
+        </bookmark>
+        <bookmark href="https://launch.test.bmi.org/" id="1639">
+          <title>BMI : My BMI Apps</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc.sharepoint.com/" id="1640">
+          <title>Inside BMI</title>
+        </bookmark>
+        <bookmark href="https://bmi-web-uat-eid-filemanagement.azurewebsites.net/filetypes" id="1641">
+          <title>BMI.EID.FileManagement.Web-CUELINK</title>
+        </bookmark>
+        <bookmark href="https://bmi-web-prod-rms.azurewebsites.net/" id="1642">
+          <title>RMS</title>
+        </bookmark>
+        <bookmark href="https://sso.dayforcehcm.com/bmi" id="1643">
+          <title>Dayforce</title>
+        </bookmark>
+        <bookmark href="https://bmi.service-now.com/" id="1644">
+          <title>SN</title>
+        </bookmark>
+        <bookmark href="https://app.powerbi.com/groups/me/reports/ac0aae10-0e43-4a68-bb6b-446c172846c6/44ab48492c1b82e6b8e8?ctid=3bbeab81-67a4-42cc-a068-5dcb39061843&amp;experience=power-bi" id="1645">
+          <title>FIAmplify_audio_reports_v1400 - Power BI</title>
+        </bookmark>
+        <bookmark href="https://app.powerbi.com/groups/me/reports/be2984c6-6947-4c37-8013-0342b7f10ba2/ReportSectioncbfccf805937ed42fa15?ctid=3bbeab81-67a4-42cc-a068-5dcb39061843&amp;experience=power-bi" id="1646">
+          <title>FI AV revenue tracking and claim - Power BI</title>
+        </bookmark>
+        <bookmark href="https://bmi-web-dev-fiadmin-01.azurewebsites.net/InternationalAdmin/Index" id="1647">
+          <title>Amplify DEV</title>
+        </bookmark>
+        <bookmark href="https://bmi-web-qa-fiadmin-01.azurewebsites.net/InternationalAdmin/Index" id="1648">
+          <title>Amplify QA</title>
+        </bookmark>
+        <bookmark href="https://fi.bmi.com/InternationalAdmin/Index" id="1649">
+          <title>Amplify PROD</title>
+        </bookmark>
+        <bookmark href="https://songview.com/" id="1650">
+          <title>Songview</title>
+        </bookmark>
+        <bookmark href="https://www.figma.com/make/mNrj22vhQfGvAoBZGIhkak/Music-Licensing-Reference-Site?p=f&amp;t=kWfUfTynqEstNAoT-0&amp;preview-route=%2Fagreement%2Fagr_1769547643185_93" id="1651">
+          <title>Music Licensing Reference Site – Figma Make</title>
+        </bookmark>
+        <bookmark href="https://www.figma.com/make/mNrj22vhQfGvAoBZGIhkak/Music-Licensing-Reference-Site?p=f&amp;t=kWfUfTynqEstNAoT-0" id="1652">
+          <title>Music Licensing Reference Site – Figma Make</title>
+        </bookmark>
+        <bookmark href="https://www.figma.com/make/mNrj22vhQfGvAoBZGIhkak/Music-Licensing-Reference-Site?p=f&amp;t=kWfUfTynqEstNAoT-0&amp;preview-route=%2Fagreement%2Fagr_1769624824338_0" id="1653">
+          <title>Music Licensing Reference Site – Figma Make</title>
+        </bookmark>
+      </folder>
+      <folder id="1611">
+        <title>CISAC</title>
+        <bookmark href="https://www.societypublisherforum.net/rde" id="1654">
+          <title>RDE - Royalty Data Exchange | The Society Publisher Forum</title>
+        </bookmark>
+        <bookmark href="https://www.cisac.org/" id="1655">
+          <title>Homepage | CISAC</title>
+        </bookmark>
+        <bookmark href="https://members.cisac.org/CisacPortal/calendarHome.do" id="1656">
+          <title>CISAC-CAL</title>
+        </bookmark>
+      </folder>
+      <folder id="1612">
+        <title>Docs</title>
+        <bookmark href="https://broadcastmusicinc.sharepoint.com/:u:/s/Distribution_Foreign_Incoming/EVxez8uLzwtKmUI9wB4Ct0IBGs-lq5uQq-allN7OmjL8XA?e=y54dvJ" id="1657">
+          <title>E2E Foreign Incoming 07-07-2015.vsd</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc-my.sharepoint.com/:x:/r/personal/tperkins_bmi_com/_layouts/15/Doc.aspx?sourcedoc=%7B49A43751-C1CB-4945-8634-32D9AA2AEE19%7D&amp;file=Team%20Roster.xlsx&amp;fromShare=true&amp;action=default&amp;mobileredirect=true" id="1658">
+          <title>Team Roster.xlsx</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc-my.sharepoint.com/:x:/g/personal/dthomas_bmi_com/Eei8GCBM90RDgNTHiUFY7VkBeyir3sl3CY_1-wsKZhP9yA?e=g3AKFu&amp;wdOrigin=TEAMS-MAGLEV.null_ns.rwc&amp;wdExp=TEAMS-TREATMENT&amp;wdhostclicktime=1758207149092&amp;web=1" id="1659">
+          <title>f2a-timeline.xlsx</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc-my.sharepoint.com/:x:/g/personal/dthomas_bmi_com/ESviwAi_C6xMjLx8E0usCU4B2TL2cNk7DdD5y1V9_m_KcQ?e=Voqdoe" id="1660">
+          <title>f2a-timesavings.xlsx</title>
+        </bookmark>
+        <bookmark href="https://bmi3.aha.io/pages/LICENSING-N-39" id="1661">
+          <title>Survey Summary | Aha!</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc.sharepoint.com/:x:/r/sites/Product/_layouts/15/Doc.aspx?sourcedoc=%7BC67799DC-B9DE-4D22-A5AA-99CE60053C29%7D&amp;file=Distribution%20Dates%20(2025-2027).xlsx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="1662">
+          <title>Distribution Dates (2025-2027).xlsx</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc.sharepoint.com/:p:/s/Product/ERGupi1CoURIk8L_vDaSnQgB6_jbYNPshg1liy_mJAIQpg?e=eYXVsR" id="1663">
+          <title>Performance Measurement Strategy - 2025 Mar.pptx</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc.sharepoint.com/:x:/r/sites/Product/_layouts/15/Doc.aspx?sourcedoc=%7B0D747CDA-0891-44E8-9079-6842C8828A32%7D&amp;file=Distribution%20Calendar%202025.xlsx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="1664">
+          <title>Distribution Calendar 2025.xlsx</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc-my.sharepoint.com/:x:/g/personal/mwilson_bmi_com/EcH4h0NEWgpAmQlnCuwU-MgBteXnvMp_BavSPCUAbqwYRQ?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&amp;wdExp=TEAMS-TREATMENT&amp;wdhostclicktime=1759769698974&amp;web=1" id="1665">
+          <title>CISAC Society Demo Info.xls</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc-my.sharepoint.com/:w:/g/personal/dthomas_bmi_com/EagWk2pIEO9Orya0R4hs6YcBQdsf29yGicjpi1_2exQy6w?e=Ou86eM" id="1666">
+          <title>Definition of Ready for FI Team.docx</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc.sharepoint.com/:w:/r/sites/Teams-International/_layouts/15/Doc.aspx?sourcedoc=%7B39D72C38-6F60-428B-984F-3AA782183605%7D&amp;file=International%20VCP%20Requirements.docx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="1667">
+          <title>International VCP Requirements.docx</title>
+        </bookmark>
+        <bookmark href="https://broadcastmusicinc.sharepoint.com/:x:/s/Teams-International/IQCkhgwj77mkTKccglHR-Q2fAaLqs_oiTtx9Q9W_IQQnq64?CID=72aa648d-a568-6703-8551-a8a20f98d729&amp;e=9G8FJN" id="1668">
+          <title>International Prototype Review.xlsx</title>
+        </bookmark>
+        <bookmark href="https://www.figma.com/make/mNrj22vhQfGvAoBZGIhkak/Music-Licensing-Reference-Site?p=f&amp;t=xkBpWtdjhmpaVE82-0" id="1669">
+          <title>Music Licensing Reference Site – Figma Make</title>
+        </bookmark>
+      </folder>
+      <folder id="1613">
+        <title>protos</title>
+        <bookmark href="https://bmi-intl-dashboard-demo.figma.site/" id="1670">
+          <title>Music Licensing Reference Site</title>
+        </bookmark>
+        <bookmark href="https://av-grid-prototype.figma.site/" id="1671">
+          <title>DataGrid-MUI</title>
+        </bookmark>
+        <bookmark href="https://thedatagrid.com/" id="1672">
+          <title>THE DataGrid</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="1614">
+        <title>GM</title>
+      </bookmark>
+      <bookmark href="https://app.fastmail.com/mail/Inbox/T8fc7e283274fa11f.M1e343b622c26aa0d13081965?u=ec614085" id="1615">
+        <title>FM</title>
+      </bookmark>
+      <bookmark href="https://bmi3.aha.io/bookmarks/custom_pivots/7545874422832174332/7545874514420022089" id="1616">
+        <title>Aha!</title>
+      </bookmark>
+      <bookmark href="https://bmitfs.visualstudio.com/ForeignIncoming/_backlogs/backlog/ForeignIncoming%20Team/Features?showParents=true" id="1617">
+        <title>ADO-FI</title>
+      </bookmark>
+      <bookmark href="https://bmitfs.visualstudio.com/CommonPlatform/_backlogs/backlog/CommonPlatform%20Team/Stories" id="1618">
+        <title>ADO-CP</title>
+      </bookmark>
+      <bookmark href="https://bmitfs.visualstudio.com/AF/_backlogs/backlog/Cognos%20Reporting%20Team/Stories" id="1619">
+        <title>ADO-AF/COGNOS</title>
+      </bookmark>
+      <bookmark href="https://ourskylight.com/calendar/3899769/events?date=2025-09-15" id="1620">
+        <title>Skylight</title>
+      </bookmark>
+      <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/PM1/pages/87162881/Onboarding+-+Dylan+Thomas" id="1621">
+        <title>onboarding</title>
+      </bookmark>
+      <bookmark href="https://www.pikapods.com/apps" id="1622">
+        <title>PikaPods - Apps</title>
+      </bookmark>
+      <bookmark href="https://medium.com/@nc_mike/the-cult-of-vector-search-and-the-forgotten-power-of-graphs-dc479251818d" id="1623">
+        <title>The Cult of Vector Search and the Forgotten Power of Graphs | by Michael Iantosca | Medium</title>
+      </bookmark>
+      <bookmark href="https://bmi3.aha.io/bookmarks/custom_pivots/7582287487920620847/7582314979755338581" id="1624">
+        <title>RM:Film Migration</title>
+      </bookmark>
+      <bookmark href="https://bmi3.aha.io/bookmarks/custom_pivots/7582685424546616254/7582685496790008137" id="1625">
+        <title>RM:FI/Intl</title>
+      </bookmark>
+      <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/ASDD/pages/130547713/Definition+of+Ready+DoR+and+Definition+of+Done+DoD+Template" id="1626">
+        <title>DoR/DoD</title>
+      </bookmark>
+      <bookmark href="https://classpass.com/search/mapped-area/fitness-classes/4UpPu9BVffD" id="1627">
+        <title>CP</title>
+      </bookmark>
+      <bookmark href="https://www.irs.gov/e-file-providers/country-codes" id="1628">
+        <title>Country codes | Internal Revenue Service</title>
+      </bookmark>
+      <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/distroandadmin/pages/86016939/Tax+Treaty+Rates" id="1629">
+        <title>Tax Treaty Rates - Distribution and Administration - BMI Knowledge</title>
+      </bookmark>
+    </folder>
+    <folder id="1609">
+      <title>Other Bookmarks</title>
+      <bookmark href="https://www.smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/?utm_source=heydesigner.com" id="1630">
+        <title>Functional Personas With AI: A Lean, Practical Workflow — Smashing Magazine</title>
+      </bookmark>
+      <bookmark href="https://handsontable.com/" id="1631">
+        <title>Handsontable is a JavaScript data grid that looks and feels like a spreadsheet - Available for React, Angular, and Vue</title>
+      </bookmark>
+      <bookmark href="https://rv-grid.com/?_gl=1*110ilza*_gcl_au*ODQ1ODcyMzg1LjE3NjE4NTA0Mzk.*_ga*MTE0Njk1ODExNy4xNzYxODUwNDQw*_ga_894M8FYLZF*czE3NjE4NTA0MzkkbzEkZzEkdDE3NjE4NTA1NDYkajYwJGwwJGgw" id="1632">
+        <title>High-Performance Data Grid for Vue, React, Angular, Svelte, and JavaScript | RevoGrid</title>
+      </bookmark>
+      <bookmark href="https://github.com/FancyGrid/awesome-grid" id="1633">
+        <title>GitHub - FancyGrid/awesome-grid: A curated list of grid(table) libraries and resources that developers may find useful.</title>
+      </bookmark>
+      <bookmark href="https://infogram.com/" id="1634">
+        <title>Create Interactive Data Visualizations with AI | Infogram</title>
+      </bookmark>
+      <bookmark href="https://medium.com/@debpanda17/5-best-tables-in-react-pros-and-cons-5c5d08cfe69a" id="1635">
+        <title>5 Best Tables in React: Pros and Cons | by Debasish Panda | Medium</title>
+      </bookmark>
+    </folder>
+  </folder>
   <bookmark href="https://books.zoho.com/app/672233693#/timesheet/alltimeentries?filter_by=Status.All%2CDate.ThisMonth&amp;per_page=200&amp;sort_column=task_name&amp;sort_order=A" id="3">
     <title>All Timesheets | Timesheet | Zoho Books</title>
   </bookmark>
