@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1801: for Floccus bookmark sync browser extension -->
+<!--- highestId :1802: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -5026,6 +5026,9 @@
   </folder>
   <bookmark href="https://access.mymind.com/everything" id="649">
     <title>mymind</title>
+  </bookmark>
+  <bookmark href="https://www.pikapods.com/apps" id="1802">
+    <title>PikaPods - Apps</title>
   </bookmark>
 </folder>
 <folder id="2">
