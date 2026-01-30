@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1690: for Floccus bookmark sync browser extension -->
+<!--- highestId :1801: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -136,12 +136,6 @@
               <title>THE DataGrid</title>
             </bookmark>
           </folder>
-          <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="1527">
-            <title>GM</title>
-          </bookmark>
-          <bookmark href="https://app.fastmail.com/mail/Inbox/T8fc7e283274fa11f.M1e343b622c26aa0d13081965?u=ec614085" id="1528">
-            <title>FM</title>
-          </bookmark>
           <bookmark href="https://bmi3.aha.io/bookmarks/custom_pivots/7545874422832174332/7545874514420022089" id="25">
             <title>Aha!</title>
           </bookmark>
@@ -154,15 +148,6 @@
           <bookmark href="https://bmitfs.visualstudio.com/AF/_backlogs/backlog/Cognos%20Reporting%20Team/Stories" id="71">
             <title>ADO-AF/COGNOS</title>
           </bookmark>
-          <bookmark href="https://ourskylight.com/calendar/3899769/events?date=2025-09-15" id="1529">
-            <title>Skylight</title>
-          </bookmark>
-          <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/PM1/pages/87162881/Onboarding+-+Dylan+Thomas" id="1530">
-            <title>onboarding</title>
-          </bookmark>
-          <bookmark href="https://www.pikapods.com/apps" id="1531">
-            <title>PikaPods - Apps</title>
-          </bookmark>
           <bookmark href="https://medium.com/@nc_mike/the-cult-of-vector-search-and-the-forgotten-power-of-graphs-dc479251818d" id="1532">
             <title>The Cult of Vector Search and the Forgotten Power of Graphs | by Michael Iantosca | Medium</title>
           </bookmark>
@@ -172,16 +157,31 @@
           <bookmark href="https://bmi3.aha.io/bookmarks/custom_pivots/7582685424546616254/7582685496790008137" id="64">
             <title>RM:FI/Intl</title>
           </bookmark>
-          <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/ASDD/pages/130547713/Definition+of+Ready+DoR+and+Definition+of+Done+DoD+Template" id="1533">
+          <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="1691">
+            <title>GM</title>
+          </bookmark>
+          <bookmark href="https://app.fastmail.com/mail/Inbox/T8fc7e283274fa11f.M1e343b622c26aa0d13081965?u=ec614085" id="1692">
+            <title>FM</title>
+          </bookmark>
+          <bookmark href="https://ourskylight.com/calendar/3899769/events?date=2025-09-15" id="1693">
+            <title>Skylight</title>
+          </bookmark>
+          <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/PM1/pages/87162881/Onboarding+-+Dylan+Thomas" id="1694">
+            <title>onboarding</title>
+          </bookmark>
+          <bookmark href="https://www.pikapods.com/apps" id="1695">
+            <title>PikaPods - Apps</title>
+          </bookmark>
+          <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/ASDD/pages/130547713/Definition+of+Ready+DoR+and+Definition+of+Done+DoD+Template" id="1696">
             <title>DoR/DoD</title>
           </bookmark>
-          <bookmark href="https://classpass.com/search/mapped-area/fitness-classes/4UpPu9BVffD" id="1534">
+          <bookmark href="https://classpass.com/search/mapped-area/fitness-classes/4UpPu9BVffD" id="1697">
             <title>CP</title>
           </bookmark>
-          <bookmark href="https://www.irs.gov/e-file-providers/country-codes" id="1535">
+          <bookmark href="https://www.irs.gov/e-file-providers/country-codes" id="1698">
             <title>Country codes | Internal Revenue Service</title>
           </bookmark>
-          <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/distroandadmin/pages/86016939/Tax+Treaty+Rates" id="1536">
+          <bookmark href="https://broadcastmusicinc.atlassian.net/wiki/spaces/distroandadmin/pages/86016939/Tax+Treaty+Rates" id="1699">
             <title>Tax Treaty Rates - Distribution and Administration - BMI Knowledge</title>
           </bookmark>
         </folder>
@@ -305,21 +305,6 @@
       </folder>
       <folder id="95">
         <title>a11y bookmarklets</title>
-        <bookmark href="javascript:void((function(){var objScript=document.createElement(&apos;script&apos;);objScript.setAttribute(&apos;src&apos;,&apos;https://thepaciellogroup.github.io/WAI-ARIA-Usage/aria-usage.js&apos;);document.body.appendChild(objScript);})());" id="176">
-          <title>WAI-ARIA Usage</title>
-        </bookmark>
-        <bookmark href="javascript:!function(d){d.addEventListener(&apos;focus&apos;,function(){console.log(d.activeElement);},true);}(document);void(0);" id="177">
-          <title>What has focus?</title>
-        </bookmark>
-        <bookmark href="javascript:(function(){document.body.appendChild(document.createElement(&apos;script&apos;)).src=&apos;https://cdn.jsdelivr.net/gh/pauljadam/bookmarklets@master/landmarks.js&apos;;var iframes=document.getElementsByTagName(&apos;iframe&apos;);for(i=0;i&lt;iframes.length;i++) {iframes[i].contentDocument.body.appendChild(document.createElement(&apos;script&apos;)).src=&apos;https://cdn.jsdelivr.net/gh/pauljadam/bookmarklets@master/landmarks.js&apos;;}})();" id="178">
-          <title>Landmarks Bookmarklet</title>
-        </bookmark>
-        <bookmark href="javascript:(function(){var element=document.createElement(&apos;script&apos;); element.setAttribute(&apos;src&apos;,&apos;https://mraccess77.github.io/favlets/focusOrder.js&apos;); document.body.appendChild(element);})();" id="179">
-          <title>Focus Order Favlet</title>
-        </bookmark>
-        <bookmark href="javascript:(function(){document.body.appendChild(document.createElement(&apos;script&apos;)).src=&apos;https://cdn.jsdelivr.net/gh/pauljadam/bookmarklets@master/focus.js&apos;;var iframes=document.getElementsByTagName(&apos;iframe&apos;);for(i=0;i&lt;iframes.length;i++) {iframes[i].contentDocument.body.appendChild(document.createElement(&apos;script&apos;)).src=&apos;https://cdn.jsdelivr.net/gh/pauljadam/bookmarklets@master/focus.js&apos;;}})();" id="180">
-          <title>Focus Bookmarklet</title>
-        </bookmark>
         <bookmark href="javascript:(function(){document.body.appendChild(document.createElement(&apos;script&apos;)).src=&apos;https://cdn.jsdelivr.net/gh/pauljadam/bookmarklets@master/images.js&apos;;var iframes=document.getElementsByTagName(&apos;iframe&apos;);for(i=0;i&lt;iframes.length;i++) {iframes[i].contentDocument.body.appendChild(document.createElement(&apos;script&apos;)).src=&apos;https://cdn.jsdelivr.net/gh/pauljadam/bookmarklets@master/images.js&apos;;}})();" id="181">
           <title>Images Bookmarklet</title>
         </bookmark>
@@ -424,24 +409,6 @@
         </bookmark>
         <bookmark href="https://www.coursera.org/programs/capgemini-learning-program-71mtd/browse?adgroupid=1257842614013614&amp;adposition=&amp;authProvider=capgemini&amp;campaignid=662631072&amp;creativeid=&amp;device=c&amp;devicemodel=&amp;hide_mobile_promo=null&amp;keyword=medical+ai+course&amp;matchtype=b&amp;msclkid=4c97231b1394189bcfb045ef82661e93&amp;network=o&amp;productTypeDescription=Courses&amp;query=healthcare+data+science&amp;sortBy=BEST_MATCH&amp;source=search&amp;utm_campaign=B2C_NAMER_ai-healthcare_stanford_FTCOF_specializations_country-US-country-CA&amp;utm_content=AI+in+Healthcare+-+All+KWs&amp;utm_medium=sem&amp;utm_source=bg&amp;utm_term=medical+ai+course" id="206">
           <title>Coursera for Capgemini | Coursera</title>
-        </bookmark>
-        <bookmark href="https://learning.edx.org/course/course-v1:MITx+HST.953x+1T2024/block-v1:MITx+HST.953x+1T2024+type@sequential+block@c98d86b89d2a483493608ce3ed8f7428/block-v1:MITx+HST.953x+1T2024+type@vertical+block@6fcaa1f6cbb043639364f00beb412260" id="207">
-          <title>Course | edX</title>
-        </bookmark>
-        <bookmark href="https://tnholler.com/#:~:text=We%E2%80%99re%20an%20independent,%20reader-supported%20site%20that%20depends%20entirely%20on%20you" id="208">
-          <title>THE TENNESSEE HOLLER – “Always YELL The Truth.”</title>
-        </bookmark>
-        <bookmark href="https://www.bing.com/search?pglt=43&amp;q=Michael+Easter+gym+jones&amp;cvid=b31cb3f87da4477194b094501cb5393f&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQg1MTEwajBqMagCALACAA&amp;FORM=ANNTA1&amp;PC=U531" id="209">
-          <title>Michael Easter gym jones - Search</title>
-        </bookmark>
-        <bookmark href="https://www.menshealth.com/fitness/a19547605/gym-jones-change-how-you-think-fitness/" id="210">
-          <title>menshealth.com/fitness/a19547605/gym-jones-change-how-you-think-fitness/</title>
-        </bookmark>
-        <bookmark href="https://www.twopct.com/p/my-go-to-hard-workout" id="211">
-          <title>My Go-To Hard Workout - Two Percent with Michael Easter</title>
-        </bookmark>
-        <bookmark href="https://mail.google.com/mail/u/0/#label/_%25+%F0%9F%8E%88Daily+%25" id="212">
-          <title>&quot;_% 🎈Daily %&quot; (57) - dylan.thomas@gmail.com - Gmail</title>
         </bookmark>
         <bookmark href="https://stores.inksoft.com/arisfc/shop/home" id="213">
           <title>Home | Aris FC</title>
@@ -677,6 +644,18 @@
       <title>Other Bookmarks</title>
       <folder id="139">
         <title>Cleanup</title>
+        <bookmark href="https://frontrowdads.com/6-resources-lp/?utm_source=facebook&amp;utm_medium=paid&amp;utm_campaign=6resources&amp;fbclid=IwAR0krFGCw9xlV9tkSSOl7CpILhvfoG9l1-7YbMp2XXkGyC01VSETIdzthVg_aem_Ac1A7dzMitcY1BSyerQAAO3yX0z0mWQdWJiGUp2iSmcJoeCyIsGMvinoMbTtPzuKomrxvNfaWiNPO1yKip18b-jg&amp;utm_id=23857220050270609&amp;utm_content=23858260999380609&amp;utm_term=23858260425320609" id="255">
+          <title>6 Resources - Front Row Dads</title>
+        </bookmark>
+        <bookmark href="https://www.businessinsider.com/award-winning-wedding-photos-around-the-world-2023-12#a-couple-shares-an-intimate-moment-at-gljufrabui-waterfall-on-the-south-coast-of-iceland-3" id="254">
+          <title>50 Award-Winning Wedding Photos From 2023</title>
+        </bookmark>
+        <bookmark href="https://uxdesign.cc/5-innovative-gradient-tools-you-can-use-to-design-your-own-backgrounds-e5719f0efe8b" id="253">
+          <title>5 innovative gradient tools you can use to design your own backgrounds | by Divad Sanders | Apr, 2022 | UX Collective</title>
+        </bookmark>
+        <bookmark href="https://huckberry.com/journal/posts/adventure-with-pride-jedidiah-jenkins" id="252">
+          <title>4 Hard-Won Lessons in Finding Your Own Path | Huckberry</title>
+        </bookmark>
         <bookmark href="https://kylelambert.substack.com/" id="228">
           <title>(1) Kyle’s newsletter | Substack</title>
         </bookmark>
@@ -748,18 +727,6 @@
         </bookmark>
         <bookmark href="https://adamsilver.io/blog/4-design-principles-i-use-every-day-to-avoid-bad-ux-and-create-products-that-work-for-everyone/?ref=heydesigner" id="251">
           <title>4 design principles I use every day to avoid bad UX and create products that work for everyone – Adam Silver – designer, London, UK</title>
-        </bookmark>
-        <bookmark href="https://huckberry.com/journal/posts/adventure-with-pride-jedidiah-jenkins" id="252">
-          <title>4 Hard-Won Lessons in Finding Your Own Path | Huckberry</title>
-        </bookmark>
-        <bookmark href="https://uxdesign.cc/5-innovative-gradient-tools-you-can-use-to-design-your-own-backgrounds-e5719f0efe8b" id="253">
-          <title>5 innovative gradient tools you can use to design your own backgrounds | by Divad Sanders | Apr, 2022 | UX Collective</title>
-        </bookmark>
-        <bookmark href="https://www.businessinsider.com/award-winning-wedding-photos-around-the-world-2023-12#a-couple-shares-an-intimate-moment-at-gljufrabui-waterfall-on-the-south-coast-of-iceland-3" id="254">
-          <title>50 Award-Winning Wedding Photos From 2023</title>
-        </bookmark>
-        <bookmark href="https://frontrowdads.com/6-resources-lp/?utm_source=facebook&amp;utm_medium=paid&amp;utm_campaign=6resources&amp;fbclid=IwAR0krFGCw9xlV9tkSSOl7CpILhvfoG9l1-7YbMp2XXkGyC01VSETIdzthVg_aem_Ac1A7dzMitcY1BSyerQAAO3yX0z0mWQdWJiGUp2iSmcJoeCyIsGMvinoMbTtPzuKomrxvNfaWiNPO1yKip18b-jg&amp;utm_id=23857220050270609&amp;utm_content=23858260999380609&amp;utm_term=23858260425320609" id="255">
-          <title>6 Resources - Front Row Dads</title>
         </bookmark>
         <bookmark href="https://pepelsbey.dev/articles/two-columns/?ref=heydesigner" id="256">
           <title>6+5 ways to make a two-column layout: from pretty reasonable to com­pletely wrong — Vadim Makeev</title>
@@ -872,19 +839,19 @@
         <bookmark href="https://resources.unity.com/automotive-transportation-manufacturing-content/automotive-hmi-template" id="292">
           <title>Automotive HMI Template: Take it for a ride</title>
         </bookmark>
-        <bookmark href="https://docs.localstack.cloud/user-guide/aws/feature-coverage/" id="293">
+        <bookmark href="https://docs.localstack.cloud/user-guide/aws/feature-coverage/" id="1700">
           <title>AWS Service Feature Coverage | Docs</title>
         </bookmark>
-        <bookmark href="https://kristineskitchenblog.com/wprm_print/25590" id="294">
+        <bookmark href="https://kristineskitchenblog.com/wprm_print/25590" id="1701">
           <title>Baked Chicken Thighs - Kristine&apos;s Kitchen</title>
         </bookmark>
-        <bookmark href="https://baseweb.design/" id="295">
+        <bookmark href="https://baseweb.design/" id="1702">
           <title>Base Web - Base Web React UI framework</title>
         </bookmark>
-        <bookmark href="https://buildexcellentwebsit.es/?ref=heydesigner" id="296">
+        <bookmark href="https://buildexcellentwebsit.es/?ref=heydesigner" id="1703">
           <title>Be the browser’s mentor, not its micromanager. - Build Excellent Websites</title>
         </bookmark>
-        <bookmark href="https://noti.st/ericwbailey/QGBiUS/be-the-villain#ssThxco" id="297">
+        <bookmark href="https://noti.st/ericwbailey/QGBiUS/be-the-villain#ssThxco" id="1704">
           <title>Be the Villain</title>
         </bookmark>
         <bookmark href="https://tickets.beautifica.show/nashville/#about" id="298">
@@ -965,22 +932,22 @@
         <bookmark href="https://medium.com/simple-human/buttons-shouldnt-have-a-hand-cursor-b11e99ca374b" id="323">
           <title>Buttons shouldn’t have a hand cursor | by Adam Silver | Simple = Human | Medium</title>
         </bookmark>
-        <bookmark href="https://500px.com/photo/106528739/calm-by-joshua-zhang" id="324">
+        <bookmark href="https://500px.com/photo/106528739/calm-by-joshua-zhang" id="1705">
           <title>Calm by Joshua Zhang / 500px</title>
         </bookmark>
-        <bookmark href="https://gretchenrubin.com/quiz/the-habits-for-happiness-quiz/habits-investment-in-what-matters/" id="325">
+        <bookmark href="https://gretchenrubin.com/quiz/the-habits-for-happiness-quiz/habits-investment-in-what-matters/" id="1706">
           <title>Can&amp;rsquo;t Open Page</title>
         </bookmark>
-        <bookmark href="https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash?src=longreads" id="326">
+        <bookmark href="https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash?src=longreads" id="1707">
           <title>Can&amp;rsquo;t Open Page</title>
         </bookmark>
-        <bookmark href="https://www.romper.com/entertainment/kids-family-movies-2024?utm_source=newsletter&amp;utm_medium=scaryMommy&amp;utm_campaign=b41064ac19" id="327">
+        <bookmark href="https://www.romper.com/entertainment/kids-family-movies-2024?utm_source=newsletter&amp;utm_medium=scaryMommy&amp;utm_campaign=b41064ac19" id="1708">
           <title>Can&amp;rsquo;t Open Page</title>
         </bookmark>
-        <bookmark href="https://www.wired.com/story/killing-eve-engineering-binge-watching/?mbid=BottomRelatedStories_Sections_1" id="328">
+        <bookmark href="https://www.wired.com/story/killing-eve-engineering-binge-watching/?mbid=BottomRelatedStories_Sections_1" id="1709">
           <title>Can&amp;rsquo;t Open Page</title>
         </bookmark>
-        <bookmark href="https://www.contagious.com/news-and-views/juie-shahs-strategy-diet?utm_campaign=Contagious%20Edit%20&amp;utm_medium=email&amp;_hsmi=294886136&amp;_hsenc=p2ANqtz--CpETVi1xBoenEs9pZmFlS269BrYcpwfAci0wGK4xggd9sx_dgSy12GkVwt2JHTiPh1JnrSt8oMkE4pfUUfdvRs_D-DA&amp;utm_content=294872079&amp;utm_source=hs_email" id="329">
+        <bookmark href="https://www.contagious.com/news-and-views/juie-shahs-strategy-diet?utm_campaign=Contagious%20Edit%20&amp;utm_medium=email&amp;_hsmi=294886136&amp;_hsenc=p2ANqtz--CpETVi1xBoenEs9pZmFlS269BrYcpwfAci0wGK4xggd9sx_dgSy12GkVwt2JHTiPh1JnrSt8oMkE4pfUUfdvRs_D-DA&amp;utm_content=294872079&amp;utm_source=hs_email" id="1710">
           <title>Can&amp;rsquo;t Open Page</title>
         </bookmark>
         <bookmark href="https://uxdesign.cc/cancel-as-a-button-or-a-link-67ccbf9df81e" id="330">
@@ -1223,19 +1190,19 @@
         <bookmark href="https://www.linkedin.com/feed/update/urn:li:activity:7040279584784678912" id="409">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/zainkahn_fyi-chatgpt-is-old-news-ai-chrome-extensions-activity-7060228724499038208-g5kq" id="410">
+        <bookmark href="https://www.linkedin.com/posts/zainkahn_fyi-chatgpt-is-old-news-ai-chrome-extensions-activity-7060228724499038208-g5kq" id="1711">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/markpollardstrategist_nobody-wants-to-read-your-presentationsnot-activity-7062078877350682624-0Mp2" id="411">
+        <bookmark href="https://www.linkedin.com/posts/markpollardstrategist_nobody-wants-to-read-your-presentationsnot-activity-7062078877350682624-0Mp2" id="1712">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/benmeer_8-free-websites-to-accelerate-your-learning-ugcPost-7076897937800196096-EWUn" id="412">
+        <bookmark href="https://www.linkedin.com/posts/benmeer_8-free-websites-to-accelerate-your-learning-ugcPost-7076897937800196096-EWUn" id="1713">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/abelcak_how-to-turn-rejections-into-job-offers-in-activity-7077270434999623681-M32G" id="413">
+        <bookmark href="https://www.linkedin.com/posts/abelcak_how-to-turn-rejections-into-job-offers-in-activity-7077270434999623681-M32G" id="1714">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/abelcak_want-to-blow-away-the-hiring-manager-in-your-activity-7075458491506647040-YBAH" id="414">
+        <bookmark href="https://www.linkedin.com/posts/abelcak_want-to-blow-away-the-hiring-manager-in-your-activity-7075458491506647040-YBAH" id="1715">
           <title>Comments | LinkedIn</title>
         </bookmark>
         <bookmark href="https://www.linkedin.com/posts/abelcak_9-tips-to-make-your-linkedin-a-job-generating-activity-7079082374331789312-a_mc" id="415">
@@ -1316,22 +1283,22 @@
         <bookmark href="https://www.linkedin.com/posts/danhendersonede_advent-of-annotations-2023-figma-community-activity-7136353293907197952-Y1mc" id="440">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/charlesmiller-pbb_5-images-for-writers-and-marketers-ugcPost-7137424942215626752-h1Ai" id="441">
+        <bookmark href="https://www.linkedin.com/posts/charlesmiller-pbb_5-images-for-writers-and-marketers-ugcPost-7137424942215626752-h1Ai" id="1716">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/abelcak_7-books-that-10xd-my-job-search-activity-7135267593015189504-jIdu" id="442">
+        <bookmark href="https://www.linkedin.com/posts/abelcak_7-books-that-10xd-my-job-search-activity-7135267593015189504-jIdu" id="1717">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7138184979229958145-LWVM" id="443">
+        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7138184979229958145-LWVM" id="1718">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/dannelken_relatable-truths-list-by-dan-nelken-activity-7138190843156348929-b387" id="444">
+        <bookmark href="https://www.linkedin.com/posts/dannelken_relatable-truths-list-by-dan-nelken-activity-7138190843156348929-b387" id="1719">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/benmeer_10-remarkably-useful-websites-all-free-ugcPost-7138873893024337920-5pNL" id="445">
+        <bookmark href="https://www.linkedin.com/posts/benmeer_10-remarkably-useful-websites-all-free-ugcPost-7138873893024337920-5pNL" id="1720">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/alex-brogan_want-to-become-the-best-at-what-you-do-read-ugcPost-7139895292799107073-A862" id="446">
+        <bookmark href="https://www.linkedin.com/posts/alex-brogan_want-to-become-the-best-at-what-you-do-read-ugcPost-7139895292799107073-A862" id="1721">
           <title>Comments | LinkedIn</title>
         </bookmark>
         <bookmark href="https://www.linkedin.com/posts/mattschnuck_zone-of-genius-activity-7140014387167199232-YkaU" id="447">
@@ -1574,19 +1541,19 @@
         <bookmark href="https://www.youtube.com/watch?v=p6Afa3Z-89o" id="526">
           <title>Hard Money with Natalie Brunell: Alex Gladstein, Inflation Crisis, Tesla Sells Bitcoin, NY Yankees - YouTube</title>
         </bookmark>
-        <bookmark href="https://www.thrillist.com/travel/nation/sam-heughan-travel-tips" id="527">
+        <bookmark href="https://www.thrillist.com/travel/nation/sam-heughan-travel-tips" id="1722">
           <title>Here&amp;rsquo;s What Sam Heughan from Outlander Packs When He Travels - Thrillist</title>
         </bookmark>
-        <bookmark href="https://www.craigabbott.co.uk/" id="528">
+        <bookmark href="https://www.craigabbott.co.uk/" id="1723">
           <title>Home - craigabbott.co.uk</title>
         </bookmark>
-        <bookmark href="https://matterful.co/home-office/" id="529">
+        <bookmark href="https://matterful.co/home-office/" id="1724">
           <title>Home &amp; Office Goods - Matterful</title>
         </bookmark>
-        <bookmark href="https://civicactions.com/" id="530">
+        <bookmark href="https://civicactions.com/" id="1725">
           <title>Home | CivicActions</title>
         </bookmark>
-        <bookmark href="https://www.dhs.gov/" id="531">
+        <bookmark href="https://www.dhs.gov/" id="1726">
           <title>Home | Homeland Security</title>
         </bookmark>
         <bookmark href="https://www.librarything.com/home" id="532">
@@ -1667,22 +1634,22 @@
         <bookmark href="https://russmaxdesign.github.io/accessible-forms/index.html" id="557">
           <title>HTML test cases</title>
         </bookmark>
-        <bookmark href="https://www.w3.org/WAI/content-assets/wai-aria-practices/patterns/tabs/examples/js/tabs-automatic.js" id="558">
+        <bookmark href="https://www.w3.org/WAI/content-assets/wai-aria-practices/patterns/tabs/examples/js/tabs-automatic.js" id="1727">
           <title>https://www.w3.org/WAI/content-assets/wai-aria-practices/patterns/tabs/examples/js/tabs-automatic.js</title>
         </bookmark>
-        <bookmark href="https://twitter.com/search?q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZuZizqDF4q8" id="559">
+        <bookmark href="https://twitter.com/search?q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZuZizqDF4q8" id="1728">
           <title>https://www.youtube.com/watch?v=ZuZizqDF4q8 - Twitter Search / Twitter</title>
         </bookmark>
-        <bookmark href="https://duckduckgo.com/?q=https%2F%2Fwww.linkedin.com%2Fposts%2Fchrisrocas_bouncing-back-is-a-superpower-8-mental-ugcPost-7112409571905650688-ls2w%3Futm_source%3Dshare%26utm_medium%3Dmember_ios&amp;t=ddg_ios&amp;atb=v276-1sc&amp;ko=-1&amp;ia=web" id="560">
+        <bookmark href="https://duckduckgo.com/?q=https%2F%2Fwww.linkedin.com%2Fposts%2Fchrisrocas_bouncing-back-is-a-superpower-8-mental-ugcPost-7112409571905650688-ls2w%3Futm_source%3Dshare%26utm_medium%3Dmember_ios&amp;t=ddg_ios&amp;atb=v276-1sc&amp;ko=-1&amp;ia=web" id="1729">
           <title>https//www.linkedin.com/posts/chrisrocas_bouncing-back-is-a-superpower-8-mental-ugcPost-7112409571905650688-ls2w?utm_source=share&amp;utm_medium=member_ios</title>
         </bookmark>
-        <bookmark href="https://duckduckgo.com/?q=https%2F%2Fwww.linkedin.com%2Fposts%2Fsahilbloom_22-truths-i-wish-i-knew-at-22-ugcPost-7112407741989539840-RoLv%3Futm_source%3Dshare%26utm_medium%3Dmember_ios&amp;t=ddg_ios&amp;atb=v276-1sc&amp;ko=-1&amp;ia=web" id="561">
+        <bookmark href="https://duckduckgo.com/?q=https%2F%2Fwww.linkedin.com%2Fposts%2Fsahilbloom_22-truths-i-wish-i-knew-at-22-ugcPost-7112407741989539840-RoLv%3Futm_source%3Dshare%26utm_medium%3Dmember_ios&amp;t=ddg_ios&amp;atb=v276-1sc&amp;ko=-1&amp;ia=web" id="1730">
           <title>https//www.linkedin.com/posts/sahilbloom_22-truths-i-wish-i-knew-at-22-ugcPost-7112407741989539840-RoLv?utm_source=share&amp;utm_medium=member_ios</title>
         </bookmark>
-        <bookmark href="https://www.hustlersquad.net/words/" id="562">
+        <bookmark href="https://www.hustlersquad.net/words/" id="1731">
           <title>HUSTLERSQUADGRAFFICKS | Digital design by James Gilyead</title>
         </bookmark>
-        <bookmark href="https://www.instagram.com/dillonmichaelwhite/reel/C22qjtluSUo/" id="563">
+        <bookmark href="https://www.instagram.com/dillonmichaelwhite/reel/C22qjtluSUo/" id="1732">
           <title>I can change her #animals #animalsofinstagram #catsofinstagram #cats #friendshaped | Instagram</title>
         </bookmark>
         <bookmark href="https://iansportfolio.com/about" id="564">
@@ -1925,19 +1892,19 @@
         <bookmark href="https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/?ref=heydesigner" id="643">
           <title>Modern CSS For Dynamic Component-Based Architecture | Modern CSS Solutions</title>
         </bookmark>
-        <bookmark href="https://every-layout.dev/rudiments/modular-scale/" id="644">
+        <bookmark href="https://every-layout.dev/rudiments/modular-scale/" id="1733">
           <title>Modular scale: Every Layout</title>
         </bookmark>
-        <bookmark href="https://poly.cam/captures" id="645">
+        <bookmark href="https://poly.cam/captures" id="1734">
           <title>My Captures | Polycam</title>
         </bookmark>
-        <bookmark href="https://www.wired.com/story/my-fathers-death-in-7-gigabytes-internet-archive/" id="646">
+        <bookmark href="https://www.wired.com/story/my-fathers-death-in-7-gigabytes-internet-archive/" id="1735">
           <title>My Father’s Death in 7 Gigabytes | WIRED</title>
         </bookmark>
-        <bookmark href="https://andy-bell.co.uk/my-favourite-3-lines-of-css/?ref=heydesigner" id="647">
+        <bookmark href="https://andy-bell.co.uk/my-favourite-3-lines-of-css/?ref=heydesigner" id="1736">
           <title>My favourite 3 lines of CSS | Andy Bell</title>
         </bookmark>
-        <bookmark href="https://www.themarginalian.org/2019/05/23/my-heart-corinna-luyken/?fbclid=IwAR3cFLLTB8386hoPFjOx5FLdVTQ47bJ3ppEHVn3Mmj3XCEP_0qGy-1pHT3E" id="648">
+        <bookmark href="https://www.themarginalian.org/2019/05/23/my-heart-corinna-luyken/?fbclid=IwAR3cFLLTB8386hoPFjOx5FLdVTQ47bJ3ppEHVn3Mmj3XCEP_0qGy-1pHT3E" id="1737">
           <title>My Heart: An Emotional Intelligence Primer in the Form of an Uncommonly Tender Illustrated Poem About Our Capacity for Love &amp;ndash; The Marginalian</title>
         </bookmark>
         <bookmark href="https://access.mymind.com/everything" id="1690">
@@ -2018,22 +1985,22 @@
         <bookmark href="https://going-medieval.com/2023/07/26/on-successor-states-and-websites/" id="674">
           <title>On successor states and websites – Going Medieval</title>
         </bookmark>
-        <bookmark href="https://knowyourteam.com/m/features/one_on_ones/?utm_source=blog&amp;utm_medium=cta" id="675">
+        <bookmark href="https://knowyourteam.com/m/features/one_on_ones/?utm_source=blog&amp;utm_medium=cta" id="1738">
           <title>One-on-One Meetings | Know Your Team</title>
         </bookmark>
-        <bookmark href="https://open-props.style/" id="676">
+        <bookmark href="https://open-props.style/" id="1739">
           <title>Open Props: sub-atomic styles</title>
         </bookmark>
-        <bookmark href="https://kittygiraudel.com/projects/" id="677">
+        <bookmark href="https://kittygiraudel.com/projects/" id="1740">
           <title>Open-source projects | Kitty Giraudel</title>
         </bookmark>
-        <bookmark href="https://github.com/openai/whisper" id="678">
+        <bookmark href="https://github.com/openai/whisper" id="1741">
           <title>openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision</title>
         </bookmark>
-        <bookmark href="https://github.com/openfed/StatementAssistant" id="679">
+        <bookmark href="https://github.com/openfed/StatementAssistant" id="1742">
           <title>openfed/StatementAssistant: Statement assistant generator</title>
         </bookmark>
-        <bookmark href="https://www.joshwcomeau.com/operator-lookup/" id="680">
+        <bookmark href="https://www.joshwcomeau.com/operator-lookup/" id="1743">
           <title>Operator Lookup - Search JavaScript operators</title>
         </bookmark>
         <bookmark href="https://www.wunderlandgroup.com/opportunities/" id="681">
@@ -2276,19 +2243,19 @@
         <bookmark href="https://www.tableau.com/learn/articles/best-beautiful-data-visualization-examples" id="760">
           <title>The 10 Best Data Visualization Examples | Tableau</title>
         </bookmark>
-        <bookmark href="https://time.com/collection/best-inventions-2023/" id="761">
+        <bookmark href="https://time.com/collection/best-inventions-2023/" id="1744">
           <title>The 200 Best Inventions of 2023 | TIME</title>
         </bookmark>
-        <bookmark href="https://kottke.org/23/11/the-2023-kottke-holiday-gift-guide" id="762">
+        <bookmark href="https://kottke.org/23/11/the-2023-kottke-holiday-gift-guide" id="1745">
           <title>The 2023 Kottke Holiday Gift Guide</title>
         </bookmark>
-        <bookmark href="https://visme.co/blog/best-data-visualizations/" id="763">
+        <bookmark href="https://visme.co/blog/best-data-visualizations/" id="1746">
           <title>The 25 Best Data Visualizations of 2020 [Examples]</title>
         </bookmark>
-        <bookmark href="https://www.userfocus.co.uk/articles/7-sins-of-user-research.html" id="764">
+        <bookmark href="https://www.userfocus.co.uk/articles/7-sins-of-user-research.html" id="1747">
           <title>The 7 Deadly Sins of User Research</title>
         </bookmark>
-        <bookmark href="https://adhocteam.us/product-field-guide/" id="765">
+        <bookmark href="https://adhocteam.us/product-field-guide/" id="1748">
           <title>The Ad Hoc Product Field Guide - Ad Hoc</title>
         </bookmark>
         <bookmark href="https://atomicdesign.bradfrost.com/chapter-4/#an-iterative-iterative-iterative-iterative-process" id="766">
@@ -2369,22 +2336,22 @@
         <bookmark href="https://willfrancis.com/the-perfect-apple-watch-face-for-sailing-and/#:~:text=Once%20installed%2C%20simply%20look%20up,in%20the%20Watch%20face%20complication." id="791">
           <title>The Perfect Apple Watch Face for Sailing and Watersports? - Will Francis</title>
         </bookmark>
-        <bookmark href="https://drink.wearerasa.com/ritual-kit?utm_source=facebook&amp;utm_medium=paidsocial&amp;utm_campaign=6395794190993&amp;utm_content=6395794189793&amp;utm_term=6395800185593&amp;nbt=nb%3Afb%3Afb%3A6395794190993%3A6395794189793%3A6395800185593&amp;nb_placement=Facebook_Mobile_Feed&amp;fbclid=IwAR1vO0odxVhjFCLaLZZLpvoVlyv01ptyxWNPD49EDalK3vuPSPdWI6F_ca4_aem_ATS9ncZUUb5jSWbAvasS3GKB-radiEJBhC7hdB-G6CD580FoB-uZgl1-VuR4LHY38DxOz1OOde-7uaHIfMag9hrc&amp;campaign_id=6395794189793&amp;ad_id=6395800185593" id="792">
+        <bookmark href="https://drink.wearerasa.com/ritual-kit?utm_source=facebook&amp;utm_medium=paidsocial&amp;utm_campaign=6395794190993&amp;utm_content=6395794189793&amp;utm_term=6395800185593&amp;nbt=nb%3Afb%3Afb%3A6395794190993%3A6395794189793%3A6395800185593&amp;nb_placement=Facebook_Mobile_Feed&amp;fbclid=IwAR1vO0odxVhjFCLaLZZLpvoVlyv01ptyxWNPD49EDalK3vuPSPdWI6F_ca4_aem_ATS9ncZUUb5jSWbAvasS3GKB-radiEJBhC7hdB-G6CD580FoB-uZgl1-VuR4LHY38DxOz1OOde-7uaHIfMag9hrc&amp;campaign_id=6395794189793&amp;ad_id=6395800185593" id="1749">
           <title>The Rasa Ritual Kit</title>
         </bookmark>
-        <bookmark href="https://uxdesign.cc/the-rise-of-the-model-designer-cef429d9c134" id="793">
+        <bookmark href="https://uxdesign.cc/the-rise-of-the-model-designer-cef429d9c134" id="1750">
           <title>The rise of the Model Designer. How designers should embrace shaping AI&amp;hellip; | by Paz Perez | Jan, 2024 | UX Collective</title>
         </bookmark>
-        <bookmark href="https://nymag.com/strategist/article/the-strategist-lighting-district.html?utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=Strategist%20Edit%20Newsletter%20-%2020230608%20-%20Thu%20Jun%2008%202023&amp;utm_term=Subscription%20List%20-%20Strategist%20%28MASTER%29" id="794">
+        <bookmark href="https://nymag.com/strategist/article/the-strategist-lighting-district.html?utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=Strategist%20Edit%20Newsletter%20-%2020230608%20-%20Thu%20Jun%2008%202023&amp;utm_term=Subscription%20List%20-%20Strategist%20%28MASTER%29" id="1751">
           <title>The Strategist Lighting District | The Strategist</title>
         </bookmark>
-        <bookmark href="https://www.waterstones.com/book/the-ten/lauren-cochrane/gesella-ohaka/9781787395053" id="795">
+        <bookmark href="https://www.waterstones.com/book/the-ten/lauren-cochrane/gesella-ohaka/9781787395053" id="1752">
           <title>The Ten by Lauren Cochrane | Waterstones</title>
         </bookmark>
-        <bookmark href="https://tksstgiftguide.tumblr.com/" id="796">
+        <bookmark href="https://tksstgiftguide.tumblr.com/" id="1753">
           <title>The TKSST Gift Guide 2023</title>
         </bookmark>
-        <bookmark href="https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/" id="797">
+        <bookmark href="https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/" id="1754">
           <title>The top 15 JWST images of 2023 - Big Think</title>
         </bookmark>
         <bookmark href="https://blog.hubspot.com/website/web-safe-html-css-fonts" id="798">
@@ -2627,19 +2594,19 @@
         <bookmark href="https://stevenpressfield.com/2023/10/my-head-in-the-morning-2/" id="877">
           <title>Writing Wednesdays: My Head in the Morning</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/scottbelsky_when-taboos-become-the-norm-came-across-activity-7140095092698083328-gpaS?utm_source=share&amp;utm_medium=member_ios" id="878">
+        <bookmark href="https://www.linkedin.com/posts/scottbelsky_when-taboos-become-the-norm-came-across-activity-7140095092698083328-gpaS?utm_source=share&amp;utm_medium=member_ios" id="1755">
           <title>www.linkedin.com</title>
         </bookmark>
-        <bookmark href="https://kittygiraudel.com/blog/" id="879">
+        <bookmark href="https://kittygiraudel.com/blog/" id="1756">
           <title>Years of writing | Kitty Giraudel</title>
         </bookmark>
-        <bookmark href="https://heydonworks.com/" id="880">
+        <bookmark href="https://heydonworks.com/" id="1757">
           <title>You have arrived at a website named heydonworks.com: HeydonWorks</title>
         </bookmark>
-        <bookmark href="https://www.audible.com/ep/title-plus?asin=B088GM3KKN&amp;source_code=FB4PP30DTRIAL7050131230084&amp;fbclid=IwAR380LvT2TWmDt7VnYgSbYguvxeD5c_y5UBZ0whdP4HhpgCzZ0LaS9k6qdc_aem_AWBShSlWqsdovM_Mi4l_7l561o6An8m4Fr2a8j8wPybp6ZjfkrIRV1gm9SOQ5dU5_bZfzaX3m1G_3Mc-NROEhm9z" id="881">
+        <bookmark href="https://www.audible.com/ep/title-plus?asin=B088GM3KKN&amp;source_code=FB4PP30DTRIAL7050131230084&amp;fbclid=IwAR380LvT2TWmDt7VnYgSbYguvxeD5c_y5UBZ0whdP4HhpgCzZ0LaS9k6qdc_aem_AWBShSlWqsdovM_Mi4l_7l561o6An8m4Fr2a8j8wPybp6ZjfkrIRV1gm9SOQ5dU5_bZfzaX3m1G_3Mc-NROEhm9z" id="1758">
           <title>You&apos;re Getting a Free Audible Book | Audible.com</title>
         </bookmark>
-        <bookmark href="https://www.melrobbins.com/thanks-bestyear" id="882">
+        <bookmark href="https://www.melrobbins.com/thanks-bestyear" id="1759">
           <title>You&apos;re In! Let&apos;s Make This Your Best Year</title>
         </bookmark>
         <bookmark href="https://www.theodinproject.com/" id="883">
@@ -2720,22 +2687,22 @@
         <bookmark href="https://www.techchange.org/talent/" id="908">
           <title>Talent | TechChange | The Institute for Technolog…</title>
         </bookmark>
-        <bookmark href="https://talent.techchange.org/jobs?remoteOnly=true" id="909">
+        <bookmark href="https://talent.techchange.org/jobs?remoteOnly=true" id="1760">
           <title>Jobs at TechChange Companies | TechChange</title>
         </bookmark>
-        <bookmark href="https://www.rezi.ai/?utm_source=linkedin&amp;utm_medium=dom&amp;utm_campaign=sample" id="910">
+        <bookmark href="https://www.rezi.ai/?utm_source=linkedin&amp;utm_medium=dom&amp;utm_campaign=sample" id="1761">
           <title>Rezi - The Leading AI Resume Builder trusted by 1…</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/gabag26_systemdesign-softwareengineering-codinginterview-activity-7143465375244951553-kEeo?utm_source=share&amp;utm_medium=member_ios" id="911">
+        <bookmark href="https://www.linkedin.com/posts/gabag26_systemdesign-softwareengineering-codinginterview-activity-7143465375244951553-kEeo?utm_source=share&amp;utm_medium=member_ios" id="1762">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/alex-brogan_25-of-the-most-powerful-psychological-tendencies-ugcPost-7143862136794984448-CaBZ?utm_source=share&amp;utm_medium=member_ios" id="912">
+        <bookmark href="https://www.linkedin.com/posts/alex-brogan_25-of-the-most-powerful-psychological-tendencies-ugcPost-7143862136794984448-CaBZ?utm_source=share&amp;utm_medium=member_ios" id="1763">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://tnaqua.org/members/member-benefits/" id="913">
+        <bookmark href="https://tnaqua.org/members/member-benefits/" id="1764">
           <title>Member Benefits · Tennessee Aquarium</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/dickiebush_the-yearly-review-activity-7145767708129718272-SO3D?utm_source=share&amp;utm_medium=member_ios" id="914">
+        <bookmark href="https://www.linkedin.com/posts/dickiebush_the-yearly-review-activity-7145767708129718272-SO3D?utm_source=share&amp;utm_medium=member_ios" id="1765">
           <title>Comments | LinkedIn</title>
         </bookmark>
         <bookmark href="https://www.linkedin.com/posts/benmeer_underrated-skill-managing-up-at-work-how-activity-7146485360028512256-IumG?utm_source=share&amp;utm_medium=member_ios" id="915">
@@ -2978,19 +2945,19 @@
         <bookmark href="https://www.linkedin.com/posts/simaban_community-productmanagement-productmanagers-activity-7153029307622207488-hyQS?utm_source=share&amp;utm_medium=member_ios" id="994">
           <title>Sima Banijamali on LinkedIn: #community #productm…</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/emilie-mazurek_essential-figma-plugins-for-new-designers-ugcPost-7153033210573000704-aY9U?utm_source=share&amp;utm_medium=member_ios" id="995">
+        <bookmark href="https://www.linkedin.com/posts/emilie-mazurek_essential-figma-plugins-for-new-designers-ugcPost-7153033210573000704-aY9U?utm_source=share&amp;utm_medium=member_ios" id="1766">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-design-teams-activity-7153299947805696000-wuHr?utm_source=share&amp;utm_medium=member_ios" id="996">
+        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-design-teams-activity-7153299947805696000-wuHr?utm_source=share&amp;utm_medium=member_ios" id="1767">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/pierre-herubel-540b3949_most-founders-lack-clarity-on-marketing-problems-activity-7153294945192144896-unME?utm_source=share&amp;utm_medium=member_ios" id="997">
+        <bookmark href="https://www.linkedin.com/posts/pierre-herubel-540b3949_most-founders-lack-clarity-on-marketing-problems-activity-7153294945192144896-unME?utm_source=share&amp;utm_medium=member_ios" id="1768">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/andre-albuquerque_productmanagement-activity-7153294943569031170-gxzV?utm_source=share&amp;utm_medium=member_ios" id="998">
+        <bookmark href="https://www.linkedin.com/posts/andre-albuquerque_productmanagement-activity-7153294943569031170-gxzV?utm_source=share&amp;utm_medium=member_ios" id="1769">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/ruben-hassid_i-found-a-solid-chatgpt-prompt-for-omni-marketing-activity-7153367475978465280-GiMy?utm_source=share&amp;utm_medium=member_ios" id="999">
+        <bookmark href="https://www.linkedin.com/posts/ruben-hassid_i-found-a-solid-chatgpt-prompt-for-omni-marketing-activity-7153367475978465280-GiMy?utm_source=share&amp;utm_medium=member_ios" id="1770">
           <title>Comments | LinkedIn</title>
         </bookmark>
         <bookmark href="https://www.linkedin.com/posts/matthearnden_here-are-a-few-linkedin-hacks-to-make-your-activity-7153385482469408768-jNjN?utm_source=share&amp;utm_medium=member_ios" id="1000">
@@ -3071,22 +3038,22 @@
         <bookmark href="https://www.linkedin.com/posts/emily-court-422b2ba4_freelancers-here-is-another-linkedin-message-activity-7153808507383730176-XaBE?utm_source=share&amp;utm_medium=member_ios" id="1025">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-metrics-activity-7154385818474729473-hq0T?utm_source=share&amp;utm_medium=member_ios" id="1026">
+        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-metrics-activity-7154385818474729473-hq0T?utm_source=share&amp;utm_medium=member_ios" id="1771">
           <title>Vitaly Friedman on LinkedIn: #ux #metrics | 30 co…</title>
         </bookmark>
-        <bookmark href="https://www.animatedknots.com/hasty-harness-knot" id="1027">
+        <bookmark href="https://www.animatedknots.com/hasty-harness-knot" id="1772">
           <title>Hasty Harness | How to tie a Hasty Harness using…</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-datavisualization-accessibility-activity-7154753273399242752-wrHI?utm_source=share&amp;utm_medium=member_ios" id="1028">
+        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-datavisualization-accessibility-activity-7154753273399242752-wrHI?utm_source=share&amp;utm_medium=member_ios" id="1773">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/anthonyvicino_7-superpowers-i-learned-from-an-olympian-activity-7154862444459245568-J2dh?utm_source=share&amp;utm_medium=member_ios" id="1029">
+        <bookmark href="https://www.linkedin.com/posts/anthonyvicino_7-superpowers-i-learned-from-an-olympian-activity-7154862444459245568-J2dh?utm_source=share&amp;utm_medium=member_ios" id="1774">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/matthearnden_how-to-get-a-new-job-activity-7154835029506887680-9O5j?utm_source=share&amp;utm_medium=member_ios" id="1030">
+        <bookmark href="https://www.linkedin.com/posts/matthearnden_how-to-get-a-new-job-activity-7154835029506887680-9O5j?utm_source=share&amp;utm_medium=member_ios" id="1775">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.facebook.com/reel/384136750824285/?referral_source=native_watch_in_feed_unit" id="1031">
+        <bookmark href="https://www.facebook.com/reel/384136750824285/?referral_source=native_watch_in_feed_unit" id="1776">
           <title>Facebook</title>
         </bookmark>
         <bookmark href="https://www.themarginalian.org/2023/10/02/maxine-kumin-after-love/?fbclid=IwAR2OYVo6CA3im0-BPEd0vi0gqXFKeR7ogVajanV6mB-2p8HMijtFRrAzPHc" id="1032">
@@ -3171,6 +3138,24 @@
           <title>Comments | LinkedIn</title>
         </bookmark>
         <bookmark href="https://www.linkedin.com/posts/alex-brogan_10-of-the-top-subreddits-to-accelerate-your-activity-7156628092814266369-6DGg?utm_source=share&amp;utm_medium=member_ios" id="1059">
+          <title>Comments | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/posts/mokkup-ai_productmanagement-productstrategy-productdevelopment-activity-7163787791229775872-nBOo?utm_source=share&amp;utm_medium=member_ios" id="1143">
+          <title>Comments | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/posts/scotchisholm_7-insanely-simple-productivity-hacks-for-activity-7163524812949106688-JLBY?utm_source=share&amp;utm_medium=member_ios" id="1144">
+          <title>Comments | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://fabudesigns.com/blog/bar-and-bat-mitzvah-logos/" id="1145">
+          <title>FabuDesigns | Bar Mitzvah Logos | Bat Mitzvah Log…</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7163913976899125248-Q6H9?utm_source=share&amp;utm_medium=member_ios" id="1146">
+          <title>Comments | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/posts/nealogrady_slack-writing-linkedin-writing-pitch-activity-7163928337847906305-LeUb?utm_source=share&amp;utm_medium=member_ios" id="1147">
+          <title>Comments | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/posts/dickiebush_i-spent-100-hours-reading-every-book-i-could-activity-7163888472167026689-ADWV?utm_source=share&amp;utm_medium=member_ios" id="1148">
           <title>Comments | LinkedIn</title>
         </bookmark>
         <bookmark href="https://www.linkedin.com/pulse/practical-guide-designing-children-vitaly-friedman-efire?utm_source=share&amp;utm_medium=member_ios&amp;utm_campaign=share_via" id="1060">
@@ -3329,19 +3314,19 @@
         <bookmark href="https://www.linkedin.com/posts/alex-m-h-smith_talentacquisition-recruiting-recruitment-activity-7161986859085086720-k3eB?utm_source=share&amp;utm_medium=member_ios" id="1111">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/krisha-amlani_productmanagers-product-productmanagement-activity-7160259894728613888-srS1?utm_source=share&amp;utm_medium=member_ios" id="1112">
+        <bookmark href="https://www.linkedin.com/posts/krisha-amlani_productmanagers-product-productmanagement-activity-7160259894728613888-srS1?utm_source=share&amp;utm_medium=member_ios" id="1777">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/good-ads-matter_goodadsmatter-unicef-technology-activity-7162029945727270913-igzz?utm_source=share&amp;utm_medium=member_ios" id="1113">
+        <bookmark href="https://www.linkedin.com/posts/good-ads-matter_goodadsmatter-unicef-technology-activity-7162029945727270913-igzz?utm_source=share&amp;utm_medium=member_ios" id="1778">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/nolanperk_uiux-uidesign-designcourses-ugcPost-7162042820982210560-2qci?utm_source=share&amp;utm_medium=member_ios" id="1114">
+        <bookmark href="https://www.linkedin.com/posts/nolanperk_uiux-uidesign-designcourses-ugcPost-7162042820982210560-2qci?utm_source=share&amp;utm_medium=member_ios" id="1779">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/heyrobk_the-best-positioning-strategy-doc-for-your-activity-7159571389237063680-IGLq?utm_source=share&amp;utm_medium=member_ios" id="1115">
+        <bookmark href="https://www.linkedin.com/posts/heyrobk_the-best-positioning-strategy-doc-for-your-activity-7159571389237063680-IGLq?utm_source=share&amp;utm_medium=member_ios" id="1780">
           <title>Robert Kaminski 🎯 on LinkedIn: The best position…</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7162361702083186688-4Gd1?utm_source=share&amp;utm_medium=member_ios" id="1116">
+        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7162361702083186688-4Gd1?utm_source=share&amp;utm_medium=member_ios" id="1781">
           <title>Comments | LinkedIn</title>
         </bookmark>
         <bookmark href="https://www.linkedin.com/posts/meryl_merylmots-accessibility-inclusion-activity-7162437634085040128-Wgf-?utm_source=share&amp;utm_medium=member_ios" id="1117">
@@ -3413,6 +3398,21 @@
         <bookmark href="https://www.linkedin.com/posts/dickiebush_13-quotes-that-will-change-the-way-you-think-ugcPost-7163524671643054080-ZG6h?utm_source=share&amp;utm_medium=member_ios" id="1139">
           <title>Comments | LinkedIn</title>
         </bookmark>
+        <bookmark href="https://www.linkedin.com/posts/stephaniewalterpro_the-work-is-never-just-the-work-the-actual-activity-7173301875709059073-BYb9?utm_source=share&amp;utm_medium=member_ios" id="1229">
+          <title>Comments | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/posts/eric-partaker-5560b92_perhaps-the-most-important-thing-youll-read-activity-7173289486955614209-5tMT?utm_source=share&amp;utm_medium=member_ios" id="1230">
+          <title>Comments | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://www.jobright.ai/mobile" id="1231">
+          <title>Jobright: Your AI Job Search Co-Pilot</title>
+        </bookmark>
+        <bookmark href="https://api.jquery.com/animate/" id="1232">
+          <title>.animate() | jQuery API Documentation</title>
+        </bookmark>
+        <bookmark href="https://parcel.io/workspaces/c2drbZ1Y9MWz/dashboard?file=%2Fpyros%2F178" id="1233">
+          <title>Workspace - Parcel</title>
+        </bookmark>
         <bookmark href="https://www.linkedin.com/posts/davidkline_i-can-fix-your-existential-crisis-in-less-activity-7163527024496623616-1USm?utm_source=share&amp;utm_medium=member_ios" id="1140">
           <title>Comments | LinkedIn</title>
         </bookmark>
@@ -3422,22 +3422,22 @@
         <bookmark href="https://linktr.ee/functionhealth" id="1142">
           <title>@functionhealth | Linktree</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/mokkup-ai_productmanagement-productstrategy-productdevelopment-activity-7163787791229775872-nBOo?utm_source=share&amp;utm_medium=member_ios" id="1143">
+        <bookmark href="https://www.linkedin.com/posts/mokkup-ai_productmanagement-productstrategy-productdevelopment-activity-7163787791229775872-nBOo?utm_source=share&amp;utm_medium=member_ios" id="1782">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/scotchisholm_7-insanely-simple-productivity-hacks-for-activity-7163524812949106688-JLBY?utm_source=share&amp;utm_medium=member_ios" id="1144">
+        <bookmark href="https://www.linkedin.com/posts/scotchisholm_7-insanely-simple-productivity-hacks-for-activity-7163524812949106688-JLBY?utm_source=share&amp;utm_medium=member_ios" id="1783">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://fabudesigns.com/blog/bar-and-bat-mitzvah-logos/" id="1145">
+        <bookmark href="https://fabudesigns.com/blog/bar-and-bat-mitzvah-logos/" id="1784">
           <title>FabuDesigns | Bar Mitzvah Logos | Bat Mitzvah Log…</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7163913976899125248-Q6H9?utm_source=share&amp;utm_medium=member_ios" id="1146">
+        <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7163913976899125248-Q6H9?utm_source=share&amp;utm_medium=member_ios" id="1785">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/nealogrady_slack-writing-linkedin-writing-pitch-activity-7163928337847906305-LeUb?utm_source=share&amp;utm_medium=member_ios" id="1147">
+        <bookmark href="https://www.linkedin.com/posts/nealogrady_slack-writing-linkedin-writing-pitch-activity-7163928337847906305-LeUb?utm_source=share&amp;utm_medium=member_ios" id="1786">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/dickiebush_i-spent-100-hours-reading-every-book-i-could-activity-7163888472167026689-ADWV?utm_source=share&amp;utm_medium=member_ios" id="1148">
+        <bookmark href="https://www.linkedin.com/posts/dickiebush_i-spent-100-hours-reading-every-book-i-could-activity-7163888472167026689-ADWV?utm_source=share&amp;utm_medium=member_ios" id="1787">
           <title>Comments | LinkedIn</title>
         </bookmark>
         <bookmark href="https://techjobsforgood.com/jobs/?job_function=Design+%2B+UX&amp;job_function=Product&amp;locations=remote&amp;q=" id="1149">
@@ -3680,19 +3680,19 @@
         <bookmark href="https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7173228980534243328-fHeA?utm_source=share&amp;utm_medium=member_ios" id="1228">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/stephaniewalterpro_the-work-is-never-just-the-work-the-actual-activity-7173301875709059073-BYb9?utm_source=share&amp;utm_medium=member_ios" id="1229">
+        <bookmark href="https://www.linkedin.com/posts/stephaniewalterpro_the-work-is-never-just-the-work-the-actual-activity-7173301875709059073-BYb9?utm_source=share&amp;utm_medium=member_ios" id="1788">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.linkedin.com/posts/eric-partaker-5560b92_perhaps-the-most-important-thing-youll-read-activity-7173289486955614209-5tMT?utm_source=share&amp;utm_medium=member_ios" id="1230">
+        <bookmark href="https://www.linkedin.com/posts/eric-partaker-5560b92_perhaps-the-most-important-thing-youll-read-activity-7173289486955614209-5tMT?utm_source=share&amp;utm_medium=member_ios" id="1789">
           <title>Comments | LinkedIn</title>
         </bookmark>
-        <bookmark href="https://www.jobright.ai/mobile" id="1231">
+        <bookmark href="https://www.jobright.ai/mobile" id="1790">
           <title>Jobright: Your AI Job Search Co-Pilot</title>
         </bookmark>
-        <bookmark href="https://api.jquery.com/animate/" id="1232">
+        <bookmark href="https://api.jquery.com/animate/" id="1791">
           <title>.animate() | jQuery API Documentation</title>
         </bookmark>
-        <bookmark href="https://parcel.io/workspaces/c2drbZ1Y9MWz/dashboard?file=%2Fpyros%2F178" id="1233">
+        <bookmark href="https://parcel.io/workspaces/c2drbZ1Y9MWz/dashboard?file=%2Fpyros%2F178" id="1792">
           <title>Workspace - Parcel</title>
         </bookmark>
         <bookmark href="https://www.wired.com/story/an-er-doctors-cure-for-americas-gun-epidemic/" id="1234">
@@ -4415,12 +4415,6 @@
         <bookmark href="https://defensivecss.dev/tip/spacing/" id="1482">
           <title>Defensive CSS - Component Spacing</title>
         </bookmark>
-        <bookmark href="https://developer.microsoft.com/en-us/fluentui#/controls/webcomponents" id="1483">
-          <title>Fluent UI - Controls - Web Components</title>
-        </bookmark>
-        <bookmark href="https://designsystem.digital.gov/components/modal/" id="1484">
-          <title>Modal | U.S. Web Design System (USWDS)</title>
-        </bookmark>
         <bookmark href="https://paste.twilio.design/components/multiselect-combobox" id="1485">
           <title>MultiselectCombobox - Paste: The Design System for building Twilio customer experiences</title>
         </bookmark>
@@ -4502,30 +4496,12 @@
         <bookmark href="https://docs.microsoft.com/en-us/power-virtual-agents/teams/advanced-flow-teams" id="1511">
           <title>Automate chatbot actions with flows in Microsoft Teams - Power Virtual Agents | Microsoft Docs</title>
         </bookmark>
-        <bookmark href="https://www.typeform.com/connect/c/online-learning/" id="1512">
-          <title>Online learning apps &amp; integrations | Typeform Connect</title>
-        </bookmark>
       </folder>
       <folder id="147">
         <title>XR</title>
-        <bookmark href="https://aframe.io/examples/showcase/helloworld/" id="1514">
-          <title>Hello WebVR – A-Frame</title>
-        </bookmark>
-        <bookmark href="https://app.spline.design/files" id="1515">
-          <title>Spline</title>
-        </bookmark>
       </folder>
       <folder id="148">
         <title>XF</title>
-        <bookmark href="https://theadultspeechtherapyworkbook.com/executive-functioning-strategies-for-adults/" id="1517">
-          <title>7 Executive Functioning Strategies for Adults PDF - ADULT SPEECH THERAPY</title>
-        </bookmark>
-        <bookmark href="https://developingchild.harvard.edu/innovation-application/key-concepts/adult-capabilities/" id="1518">
-          <title>How to Build Executive Function Skills for Adults</title>
-        </bookmark>
-        <bookmark href="https://www.braincogcoach.com/adult-executive-function-online-course/" id="1519">
-          <title>Adult Executive Function Online Course | Brain Cog</title>
-        </bookmark>
         <bookmark href="https://catalog.pesi.com/sales/rh_c_001318_efcert_organic-76829" id="1520">
           <title>Executive Function Mastery Course | PESI.com</title>
         </bookmark>
@@ -4692,6 +4668,33 @@
           </bookmark>
           <bookmark href="https://www.npr.org/sections/thetwo-way/2015/07/08/421240583/facebooks-new-logo-is-a-visual-nod-to-gender-equality" id="1679">
             <title>Facebook&apos;s New Logo Is A Visual Nod To Gender Equality : The Two-Way : NPR</title>
+          </bookmark>
+          <bookmark href="https://www.bobsagency.com/" id="1793">
+            <title>Strategy, Content &amp; Design | Spain and UK | Bob&apos;s agency |</title>
+          </bookmark>
+          <bookmark href="https://www.unwomen.org/en/digital-library/genderterm?AlphabetText=X" id="1794">
+            <title>GenderTerm: UN Women online resources on the use of gender-inclusive language | UN Women – Headquarters</title>
+          </bookmark>
+          <bookmark href="https://www.stats.govt.nz/consultations/sex-and-gender-identity-statistical-standards-consultation" id="1795">
+            <title>Sex and gender identity statistical standards: Consultation | Stats NZ</title>
+          </bookmark>
+          <bookmark href="https://www23.statcan.gc.ca/imdb/p3Var.pl?Function=DEC&amp;Id=410445" id="1796">
+            <title>Gender of person</title>
+          </bookmark>
+          <bookmark href="https://www.uxbooth.com/articles/women-on-top-inappropriate-dropdowns/" id="1797">
+            <title>Women On Top: Inappropriate Dropdowns | UX Booth</title>
+          </bookmark>
+          <bookmark href="https://www.yahoo.com/entertainment/s/facebook-changed-friends-logo-man-100000058.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAACgdCnKJ9xn-WXjDJS8WsyuExDish3BE4LdyRLKiIGOuo5xfcZ1HWPdhBVe1yfJWoTrqqujITQHAOcaOUJAqwsNngcinRpK11kHKVvAKc7jkNmo8GgggCw8b6bOkQzRG8qtrhrla_Hl0AvZiE4F0_F8KDfpbQ2G61uYNV3OlthLF" id="1798">
+            <title>Facebook changed its &apos;Friends&apos; logo to make the man and woman equal</title>
+          </bookmark>
+          <bookmark href="https://www.theguardian.com/technology/2015/jul/08/facebook-new-friends-icons-feminist" id="1799">
+            <title>Facebook gets a feminist twist with new friends icons | Facebook | The Guardian</title>
+          </bookmark>
+          <bookmark href="https://www.britishairways.com/travel/register-now/public/en_us?source=PHP-Register-Top" id="1800">
+            <title>British Airways - Registration Page</title>
+          </bookmark>
+          <bookmark href="https://members.cisac.org/CisacPortal/calendar.do?method=afxCalendar" id="1801">
+            <title>Calendar</title>
           </bookmark>
         </folder>
         <folder id="1572">
