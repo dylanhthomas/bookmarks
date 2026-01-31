@@ -4696,9 +4696,6 @@
           <bookmark href="https://www.britishairways.com/travel/register-now/public/en_us?source=PHP-Register-Top" id="1800">
             <title>British Airways - Registration Page</title>
           </bookmark>
-          <bookmark href="https://members.cisac.org/CisacPortal/calendar.do?method=afxCalendar" id="1801">
-            <title>Calendar</title>
-          </bookmark>
         </folder>
         <folder id="1572">
           <title>my blog update</title>
@@ -4929,6 +4926,9 @@
     </bookmark>
     <bookmark href="https://members.cisac.org/CisacPortal/calendarHome.do" id="13">
       <title>CISAC-CAL</title>
+    </bookmark>
+    <bookmark href="https://members.cisac.org/CisacPortal/calendar.do?method=afxCalendar" id="1801">
+      <title>Calendar</title>
     </bookmark>
   </folder>
   <folder id="24">
